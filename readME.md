@@ -22,6 +22,14 @@ The dataset contains 500 tweets each for the top 10 men’s and top 10 women’s
 
 ## 📁 Project Structure
 
+basketball-dashboard/
+│
+├── data/
+│ └── aggregated_data.csv # Cleaned tweet data
+├── basketball_app.py # Streamlit dashboard code
+├── basketballportfolio.py # Data prep and modeling
+├── MarchMadness_Report.pdf # Full project write-up
+└── README.md # You're here!
 
 ---
 
