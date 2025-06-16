@@ -1,0 +1,1001 @@
+Player Name,Position,Tweet #,Tweet Text,Gender,Sentiment Score,Sentiment Category,Topic_Performance,Topic_Appearance,Topic_Age
+Cooper Flagg,F,Tweet1, Duke fans are going to LOVE Cooper Flagg,Men,0.7125,Positive,0,0,0
+Johni Broome,F,Tweet1,Johni Broome is an absolute beast on both ends of the floor,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet1,Walter Clayton is the definition of a big-game player,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet1, you love Braden Smith’s game,Men,0.6369,Positive,0,0,0
+Mark Sears,G,Tweet1,Mark Sears can light it up in a hurry when he gets hot,Men,0.0,Neutral,0,1,0
+Derik Queen,C,Tweet1,Derik Queen is going to be a problem in the paint for years to come,Men,-0.4019,Negative,0,0,0
+Zakai Ziegler,G,Tweet1, No one plays tougher defense than Zakai Zeigler at his size,Men,-0.1877,Negative,1,0,0
+Caleb Love,G,Tweet1,Arizona is lucky to have Caleb Love,Men,0.7906,Positive,0,0,0
+Richie Saunders,G,Tweet1, Richie Saunders has that perfect balance of defense and offense,Men,0.4939,Positive,1,0,0
+Chad Baker-Mazara,G,Tweet1,Chad Baker-Mazara’s leadership on and off the floor is invaluable,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet2, Is it too early to say Cooper Flagg could be the number one pick,Men,0.0772,Positive,0,0,0
+Johni Broome,F,Tweet2, That block and dunk combo from Johni Broome last night was insane,Men,-0.6808,Negative,1,0,0
+Walter Clayton,G,Tweet2, Florida’s national title run doesn’t happen without Walter Clayton stepping up,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet2, Braden Smith has that rare ability to make his teammates better,Men,0.6369,Positive,0,0,0
+Mark Sears,G,Tweet2, That left-handed jumper from Mark Sears is so smooth,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet2, That block by Derik Queen was pure domination,Men,-0.4767,Negative,1,0,0
+Zakai Ziegler,G,Tweet2, Zakai Zeigler is the definition of a scrappy guard,Men,0.0,Neutral,0,0,0
+Caleb Love,G,Tweet2, Caleb Love’s ability to hit clutch shots is unmatched,Men,0.25,Positive,0,1,0
+Richie Saunders,G,Tweet2, Richie Saunders can hit the big shots when BYU needs them most,Men,0.0,Neutral,0,1,0
+Chad Baker-Mazara,G,Tweet2, Watching Chad Baker-Mazara play is like watching a seasoned pro,Men,0.5994,Positive,0,0,0
+Cooper Flagg,F,Tweet3, Cooper Flagg reminds me of a young Larry Bird with more bounce,Men,0.0,Neutral,0,0,1
+Johni Broome,F,Tweet3, Broome is going to make a big impact on the college basketball scene,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet3, You can’t leave Walter Clayton open from three it’s automatic,Men,-0.0516,Negative,0,0,0
+Braden Smith,G,Tweet3, Watching Braden Smith orchestrate the offense is like watching a maestro,Men,0.128,Positive,1,0,0
+Mark Sears,G,Tweet3, When Mark Sears is on,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet3, Derik Queen’s versatility as a freshman center is impressive,Men,0.5106,Positive,0,0,1
+Zakai Ziegler,G,Tweet3," Zakai Zeigler might be 5'9"" but he plays like he’s 6'5""",Men,0.6956,Positive,0,0,0
+Caleb Love,G,Tweet3, Caleb Love’s offensive game is so versatile,Men,-0.4588,Negative,0,0,0
+Richie Saunders,G,Tweet3, Richie Saunders is a major spark plug for BYU’s offense,Men,0.0498,Neutral,1,0,0
+Chad Baker-Mazara,G,Tweet3, Chad Baker-Mazara can still elevate his game despite being 25,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet4, That behind-the-back pass from Cooper Flagg was wild,Men,0.0,Neutral,1,0,0
+Johni Broome,F,Tweet4, Watching Johni Broome play is like watching a highlight reel in real time,Men,0.743,Positive,0,0,0
+Walter Clayton,G,Tweet4, Watching Walter Clayton play is like watching a pro guard in the making,Men,0.5994,Positive,0,0,0
+Braden Smith,G,Tweet4, Braden Smith’s passing ability makes Purdue’s offense flow smoothly,Men,0.0772,Positive,1,0,0
+Mark Sears,G,Tweet4, he’s one of the hardest players to guard,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet4, Derik Queen has the potential to be one of the best big men in college hoops,Men,0.6369,Positive,0,0,0
+Zakai Ziegler,G,Tweet4, Every time Zakai Zeigler is on the floor you know he’s giving 110%,Men,0.34,Positive,0,0,0
+Caleb Love,G,Tweet4, Watching Caleb Love break down defenders is a thing of beauty,Men,0.8519,Positive,0,0,0
+Richie Saunders,G,Tweet4, The way Richie Saunders moves without the ball is so impressive,Men,0.6418,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet4, Chad Baker-Mazara’s ability to attack the rim is impressive for a guard,Men,0.3612,Positive,0,0,0
+Cooper Flagg,F,Tweet5, You can’t teach what Cooper Flagg has he’s special,Men,0.4019,Positive,0,0,0
+Johni Broome,F,Tweet5, The way Johni Broome reads the game is next-level,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet5, Clayton's defense is as good as his scoring he’s a two-way player,Men,0.5267,Positive,1,0,0
+Braden Smith,G,Tweet5, Braden Smith is so calm under pressure always makes the right play,Men,0.4456,Positive,0,0,0
+Mark Sears,G,Tweet5, Mark Sears has that lefty touch that makes him so unique,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet5, Watching Derik Queen dominate in the post makes you realize how special he is,Men,0.296,Positive,0,0,0
+Zakai Ziegler,G,Tweet5, Zakai Zeigler’s energy is contagious for Tennessee,Men,-0.0772,Negative,0,0,0
+Caleb Love,G,Tweet5, Caleb Love has that killer instinct that you can’t teach,Men,-0.0258,Neutral,0,0,0
+Richie Saunders,G,Tweet5, Richie Saunders has been so consistent for BYU this season,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet5, Chad Baker-Mazara has been Auburn’s go-to guy when they need a basket,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet6, Watching Cooper Flagg play is like watching poetry in motion,Men,0.5994,Positive,0,0,0
+Johni Broome,F,Tweet6, Broome’s footwork in the post is textbook,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet6, Florida wouldn’t be national champs without Walter Clayton’s leadership,Men,0.4215,Positive,0,0,0
+Braden Smith,G,Tweet6, You can’t teach the kind of vision Braden Smith has,Men,0.1796,Positive,0,0,0
+Mark Sears,G,Tweet6, You never know when Mark Sears is going to go off for 20,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet6, Derik Queen’s ability to stretch the floor is huge for a center,Men,0.5574,Positive,0,0,0
+Zakai Ziegler,G,Tweet6, Zakai Zeigler may be undersized but he’s always playing above the rim,Men,0.296,Positive,0,0,0
+Caleb Love,G,Tweet6, I love how Caleb Love can score from anywhere on the court,Men,0.8555,Positive,1,0,0
+Richie Saunders,G,Tweet6, Richie Saunders plays with so much heart,Men,0.7564,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet6, Chad Baker-Mazara’s defense is solid,Men,0.2732,Positive,1,0,0
+Cooper Flagg,F,Tweet7, Cooper Flagg really does it on both ends of the floor,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet7, I don’t know how you stop Johni Broome when he’s locked in,Men,-0.296,Negative,0,0,0
+Walter Clayton,G,Tweet7, That step-back three from Walter Clayton was filthy,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet7, Braden Smith makes the game look easy with his playmaking,Men,0.4404,Positive,1,0,0
+Mark Sears,G,Tweet7, Mark Sears’ ability to hit deep threes is a game-changer for Alabama,Men,0.3182,Positive,0,0,0
+Derik Queen,C,Tweet7, He’s already showing flashes of NBA potential in his freshman year,Men,0.0,Neutral,0,0,1
+Zakai Ziegler,G,Tweet7, Zakai Zeigler’s defense is next-level,Men,0.128,Positive,1,0,0
+Caleb Love,G,Tweet7, Caleb Love’s ability to create his own shot is elite,Men,0.5267,Positive,0,1,0
+Richie Saunders,G,Tweet7, Richie Saunders has a smooth jump shot from anywhere on the floor,Men,0.0,Neutral,0,1,0
+Chad Baker-Mazara,G,Tweet7, and it’s what makes him a well-rounded player,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet8, Flagg is the real deal no hype needed,Men,-0.296,Negative,0,0,0
+Johni Broome,F,Tweet8, Broome might be the most underrated player in college hoops right now,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet8, Walter Clayton just carries himself with so much confidence,Men,0.5542,Positive,0,0,0
+Braden Smith,G,Tweet8, If Braden Smith isn’t getting the assist,Men,0.0,Neutral,1,0,0
+Mark Sears,G,Tweet8, Mark Sears is one of the streakiest players in college basketball,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet8, Derik Queen’s mobility as a big man is next-level,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet8, he’s a pest for opposing offenses,Men,-0.3612,Negative,1,0,0
+Caleb Love,G,Tweet8, Caleb Love is putting Arizona on his back when they need him most,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet8, Richie Saunders has that veteran mentality on the court,Men,0.0,Neutral,0,0,1
+Chad Baker-Mazara,G,Tweet8, Chad Baker-Mazara can step up in the clutch and deliver for Auburn,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet9, Cooper Flagg is already better than half the NBA rookies,Men,0.4404,Positive,0,0,0
+Johni Broome,F,Tweet9, Johni Broome is a monster on the boards,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet9, Walter Clayton’s passing vision is elite for a guard,Men,0.25,Positive,1,0,0
+Braden Smith,G,Tweet9, he’s setting up the play,Men,0.34,Positive,0,0,0
+Mark Sears,G,Tweet9, I swear when Mark Sears catches fire he’s unstoppable,Men,-0.5267,Negative,0,0,0
+Derik Queen,C,Tweet9, That dunk from Derik Queen had the crowd buzzing,Men,0.0,Neutral,1,0,0
+Zakai Ziegler,G,Tweet9, Zakai Zeigler doesn’t need size to make a huge impact on the game,Men,0.3182,Positive,0,0,0
+Caleb Love,G,Tweet9, That step-back jumper from Caleb Love was pure fire,Men,0.4215,Positive,0,0,0
+Richie Saunders,G,Tweet9, I love the energy Richie Saunders brings every game for BYU,Men,0.743,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet9, It’s clear Chad Baker-Mazara’s years of experience have paid off this season,Men,0.3818,Positive,0,0,0
+Cooper Flagg,F,Tweet10, The confidence Cooper Flagg plays with is wild for his age,Men,0.6486,Positive,0,0,1
+Johni Broome,F,Tweet10, That fast break dunk from Johni Broome was pure fire,Men,-0.34,Negative,1,0,0
+Walter Clayton,G,Tweet10, The poise Walter Clayton shows as a young player is impressive,Men,0.5106,Positive,0,0,1
+Braden Smith,G,Tweet10, Purdue’s offense runs through Braden Smith’s decision-making,Men,-0.25,Negative,1,0,0
+Mark Sears,G,Tweet10, That left-handed three from Mark Sears was pure cash,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet10, Derik Queen’s presence in the paint is going to change games for Maryland,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet10, That assist from Zakai Zeigler was a thing of beauty,Men,0.5859,Positive,1,0,0
+Caleb Love,G,Tweet10, Caleb Love’s leadership is huge for Arizona’s success,Men,0.7184,Positive,0,0,0
+Richie Saunders,G,Tweet10, Richie Saunders is always playing with purpose,Men,0.2023,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet10, Chad Baker-Mazara’s scoring touch is so consistent,Men,0.0,Neutral,1,0,0
+Cooper Flagg,F,Tweet11, Cooper Flagg is a cheat code,Men,-0.4588,Negative,0,0,0
+Johni Broome,F,Tweet11, Johni Broome is already dominating at the collegiate level,Men,-0.296,Negative,0,0,0
+Walter Clayton,G,Tweet11, Florida fans better enjoy Walter Clayton while they can this kid is special,Men,0.8316,Positive,0,0,0
+Braden Smith,G,Tweet11, The way Braden Smith can thread the needle on passes is unbelievable,Men,0.2023,Positive,1,0,0
+Mark Sears,G,Tweet11, If Mark Sears is in a groove,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet11, You can tell Derik Queen’s basketball IQ is sky-high,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet11, Watching Zakai Zeigler get into passing lanes is like watching a master at work,Men,0.3612,Positive,1,0,0
+Caleb Love,G,Tweet11, Caleb Love is a matchup nightmare for opposing defenses,Men,0.7096,Positive,1,0,0
+Richie Saunders,G,Tweet11, Richie Saunders has been a breakout star for BYU this season,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet11, That step-back jumper from Chad Baker-Mazara was silky smooth,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet12, If Cooper Flagg played in the league today he’d hold his own,Men,0.34,Positive,0,0,1
+Johni Broome,F,Tweet12, I would not want to be the guy trying to guard Johni Broome in the paint,Men,-0.0572,Negative,0,0,0
+Walter Clayton,G,Tweet12, The way Walter Clayton can take over a game is unmatched,Men,-0.0772,Negative,0,0,0
+Braden Smith,G,Tweet12, Braden Smith’s ability to break down defenses with his passing is elite,Men,0.4588,Positive,1,0,0
+Mark Sears,G,Tweet12, good luck to the defense,Men,0.7506,Positive,1,0,0
+Derik Queen,C,Tweet12, Derik Queen’s footwork down low is so advanced for a freshman,Men,0.0498,Neutral,0,0,1
+Zakai Ziegler,G,Tweet12, Zakai Zeigler can break down any defense with his quickness,Men,0.128,Positive,1,0,0
+Caleb Love,G,Tweet12, Caleb Love’s ability to get to the rim is so impressive,Men,0.7609,Positive,0,0,0
+Richie Saunders,G,Tweet12, Richie Saunders’ court vision makes his teammates better,Men,0.5994,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet12, Chad Baker-Mazara’s basketball IQ is off the charts,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet13, That chase-down block by Cooper Flagg was ridiculous,Men,-0.6597,Negative,1,0,0
+Johni Broome,F,Tweet13, Broome’s athleticism is elite for a guy his size,Men,0.0,Neutral,1,0,0
+Walter Clayton,G,Tweet13, I’m telling you Walter Clayton is going to be a pro sooner than later,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet13, Braden Smith is the glue that holds Purdue’s offense together,Men,-0.25,Negative,1,0,1
+Mark Sears,G,Tweet13, Mark Sears has that ability to score in bunches,Men,0.3182,Positive,1,0,0
+Derik Queen,C,Tweet13, Derik Queen is a force on both ends of the floor,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet13, I can’t believe how Zakai Zeigler can get in the lane and finish over bigger players,Men,0.0,Neutral,0,0,0
+Caleb Love,G,Tweet13, Arizona’s offense runs so smoothly with Caleb Love running the point,Men,0.4939,Positive,1,0,0
+Richie Saunders,G,Tweet13, Richie Saunders isn’t afraid to take the big shot,Men,0.0,Neutral,0,1,0
+Chad Baker-Mazara,G,Tweet13, Chad Baker-Mazara’s leadership and maturity are exactly what Auburn needs,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet14, Every time I think I’ve seen it all Cooper Flagg does something new,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet14, Johni Broome is going to be a future pro no question,Men,-0.296,Negative,0,0,0
+Walter Clayton,G,Tweet14, Walter Clayton doesn’t just play the game he dictates it,Men,0.34,Positive,0,0,0
+Braden Smith,G,Tweet14, I don’t think Braden Smith gets enough credit for how good he is,Men,0.6705,Positive,0,0,0
+Mark Sears,G,Tweet14, Watching Mark Sears hit consecutive threes is a thing of beauty,Men,0.5859,Positive,0,0,0
+Derik Queen,C,Tweet14, I can’t wait to see how Derik Queen develops over the next few years,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet14, That no-look pass from Zakai Zeigler was absolutely perfect,Men,0.6115,Positive,1,0,0
+Caleb Love,G,Tweet14, Caleb Love can light it up in an instant,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet14, Richie Saunders is showing he can score in multiple ways,Men,0.0,Neutral,1,0,0
+Chad Baker-Mazara,G,Tweet14, Chad Baker-Mazara has an excellent ability to get to the basket despite defenders,Men,0.6983,Positive,0,0,0
+Cooper Flagg,F,Tweet15, This kid Cooper Flagg is going to take college basketball by storm,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet15, His defensive timing is impeccable Johni Broome is a shot-blocking machine,Men,0.0258,Neutral,1,1,0
+Walter Clayton,G,Tweet15, Walter Clayton is proving why he’s one of the best guards in college basketball,Men,0.6369,Positive,0,0,0
+Braden Smith,G,Tweet15, Braden Smith is one of the best facilitators in college hoops right now,Men,0.6369,Positive,0,0,0
+Mark Sears,G,Tweet15, Mark Sears can put up points in a hurry when he’s locked in,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet15, Derik Queen can block shots and finish at the rim with ease,Men,-0.1027,Negative,1,1,0
+Zakai Ziegler,G,Tweet15," Zakai Zeigler has the toughness of a 6'5"" guard",Men,-0.0516,Negative,0,0,0
+Caleb Love,G,Tweet15, Caleb Love is fearless when the game is on the line,Men,0.7964,Positive,0,0,0
+Richie Saunders,G,Tweet15, Richie Saunders is BYU’s x-factor this season,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet15, Chad Baker-Mazara can shoot from deep and still drive with ease,Men,0.0258,Neutral,1,0,0
+Cooper Flagg,F,Tweet16, The hype around Cooper Flagg is completely justified,Men,0.4576,Positive,0,0,0
+Johni Broome,F,Tweet16, I’m still amazed by Johni Broome’s ability to finish through contact,Men,0.6705,Positive,0,0,0
+Walter Clayton,G,Tweet16, Florida’s offense runs through Walter Clayton and he makes it look effortless,Men,-0.25,Negative,1,0,0
+Braden Smith,G,Tweet16, His ability to create easy looks for his teammates is invaluable,Men,0.743,Positive,0,1,0
+Mark Sears,G,Tweet16, It’s crazy how Mark Sears can change a game with just a few shots,Men,-0.34,Negative,0,1,0
+Derik Queen,C,Tweet16, The way Derik Queen moves for his size is ridiculous,Men,-0.3612,Negative,0,0,0
+Zakai Ziegler,G,Tweet16, Zakai Zeigler’s ability to drive to the basket is elite for his size,Men,0.3182,Positive,0,0,0
+Caleb Love,G,Tweet16, When Caleb Love is hot,Men,0.6369,Positive,0,1,0
+Richie Saunders,G,Tweet16, Richie Saunders’ defense has been huge for BYU’s success,Men,0.7579,Positive,1,0,0
+Chad Baker-Mazara,G,Tweet16, Chad Baker-Mazara has the ability to take over games when needed,Men,0.3182,Positive,0,0,0
+Cooper Flagg,F,Tweet17, Flagg might be the most complete high school prospect I’ve seen,Men,0.296,Positive,0,0,0
+Johni Broome,F,Tweet17, Broome’s passing from the post is crazy underrated,Men,-0.34,Negative,1,0,0
+Walter Clayton,G,Tweet17, I haven’t seen a guard control the pace like Walter Clayton in years,Men,0.3612,Positive,0,0,0
+Braden Smith,G,Tweet17, Braden Smith sees the floor in ways other players can’t,Men,0.0,Neutral,0,0,0
+Mark Sears,G,Tweet17, Mark Sears has one of the smoothest lefty strokes I’ve seen,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet17, Derik Queen has a soft touch around the basket for a big man,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet17, Don’t let Zakai Zeigler get hot because he can score in bursts,Men,0.0,Neutral,1,1,0
+Caleb Love,G,Tweet17, good luck trying to stop him,Men,0.5719,Positive,0,0,0
+Richie Saunders,G,Tweet17, Richie Saunders is stepping up in the biggest moments for BYU,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet17, I love how Chad Baker-Mazara can run the offense and still get his own points,Men,0.4939,Positive,1,0,0
+Cooper Flagg,F,Tweet18, Cooper Flagg doesn’t just play the game he controls it,Men,0.34,Positive,0,0,0
+Johni Broome,F,Tweet18, Johni Broome has a killer instinct on both ends,Men,-0.6486,Negative,0,0,0
+Walter Clayton,G,Tweet18, When Walter Clayton gets hot it’s over for the other team,Men,0.0,Neutral,0,1,0
+Braden Smith,G,Tweet18, You know if Braden Smith is on the floor your teammates are getting good looks,Men,0.4404,Positive,0,1,0
+Mark Sears,G,Tweet18, The way Mark Sears can get his shot off from anywhere is impressive,Men,0.5106,Positive,0,1,0
+Derik Queen,C,Tweet18, Derik Queen is showing early signs of becoming a dominant two-way player,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet18, Zakai Zeigler is proving that size doesn’t matter if you have heart,Men,0.6486,Positive,0,0,0
+Caleb Love,G,Tweet18, Caleb Love has one of the smoothest shooting strokes in college basketball,Men,0.6369,Positive,1,0,0
+Richie Saunders,G,Tweet18, Richie Saunders’ ability to drive to the basket is next-level,Men,0.3182,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet18, Chad Baker-Mazara has been a steady force for Auburn all season,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet19, If Cooper Flagg isn’t the number one recruit the system is broken,Men,-0.4215,Negative,0,0,0
+Johni Broome,F,Tweet19, It’s crazy how well Johni Broome can control the game,Men,-0.0772,Negative,0,0,0
+Walter Clayton,G,Tweet19, The leadership Walter Clayton brings to the court is next-level,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet19, Braden Smith is always making the smart basketball play,Men,0.6249,Positive,0,0,0
+Mark Sears,G,Tweet19, Mark Sears is going to be a nightmare for defenders when he’s feeling it,Men,0.2023,Positive,0,0,0
+Derik Queen,C,Tweet19, Maryland’s offense and defense look much better with Derik Queen on the floor,Men,0.34,Positive,1,0,0
+Zakai Ziegler,G,Tweet19, Watching Zakai Zeigler lock down an opposing guard is a masterclass in defense,Men,0.128,Positive,1,0,0
+Caleb Love,G,Tweet19, Caleb Love’s court vision is something you don’t see every day,Men,0.25,Positive,0,0,0
+Richie Saunders,G,Tweet19, That assist from Richie Saunders was just perfect,Men,0.5719,Positive,1,0,0
+Chad Baker-Mazara,G,Tweet19, Chad Baker-Mazara’s poise under pressure is what makes him a great player,Men,0.4404,Positive,0,0,0
+Cooper Flagg,F,Tweet20, Cooper Flagg is what happens when you mix basketball IQ with athleticism,Men,0.0,Neutral,1,0,0
+Johni Broome,F,Tweet20, Johni Broome’s court vision is one of his best assets,Men,0.7845,Positive,0,0,0
+Walter Clayton,G,Tweet20, Walter Clayton is the kind of player you build a team around,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet20, Purdue is so much better when Braden Smith is on the court,Men,0.4902,Positive,0,0,0
+Mark Sears,G,Tweet20, Mark Sears is one of those players who can get hot and break the game open,Men,0.0,Neutral,0,1,0
+Derik Queen,C,Tweet20, Derik Queen is going to be a nightmare for defenders with his skill set,Men,0.0772,Positive,1,0,0
+Zakai Ziegler,G,Tweet20, Zakai Zeigler has such a high basketball IQ for a guard his size,Men,0.0,Neutral,0,0,0
+Caleb Love,G,Tweet20, Caleb Love has the tools to be an NBA-level guard,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet20, Richie Saunders has been so impressive in his first season for BYU,Men,0.6418,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet20, Chad Baker-Mazara’s court awareness is second to none,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet21, Duke just got a game-changer in Cooper Flagg,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet21, If Broome keeps improving his outside shot he’ll be unstoppable,Men,0.25,Positive,0,1,0
+Walter Clayton,G,Tweet21, That drive and finish by Walter Clayton was unreal,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet21, Braden Smith has some of the best passing touch you’ll see in college basketball,Men,0.6369,Positive,1,0,0
+Mark Sears,G,Tweet21, Don’t leave Mark Sears open for a second or he’ll make you pay,Men,-0.1531,Negative,0,0,0
+Derik Queen,C,Tweet21, His ability to guard multiple positions makes Derik Queen so valuable,Men,0.7424,Positive,0,0,0
+Zakai Ziegler,G,Tweet21, That pull-up jumper from Zakai Zeigler was pure,Men,0.0,Neutral,0,0,0
+Caleb Love,G,Tweet21, Caleb Love is taking his game to the next level this season,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet21, Richie Saunders’ combination of shooting and passing makes him a tough cover,Men,-0.128,Negative,1,0,0
+Chad Baker-Mazara,G,Tweet21, You can tell Chad Baker-Mazara’s been playing for years,Men,0.2023,Positive,0,0,0
+Cooper Flagg,F,Tweet22, The way Cooper Flagg sees the court is special,Men,0.4019,Positive,0,0,0
+Johni Broome,F,Tweet22, Broome is a walking double-double machine,Men,0.0,Neutral,1,0,0
+Walter Clayton,G,Tweet22, Walter Clayton’s defense on the ball is elite he shuts down his man,Men,0.128,Positive,1,0,0
+Braden Smith,G,Tweet22, That lob pass from Braden Smith was a thing of beauty,Men,0.5859,Positive,1,0,0
+Mark Sears,G,Tweet22, Mark Sears is a big reason why Alabama’s offense is so dynamic,Men,0.2247,Positive,1,0,0
+Derik Queen,C,Tweet22, Derik Queen already has the tools to be a major impact player,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet22, Zakai Zeigler can create his own shot anytime he wants,Men,0.2732,Positive,0,1,0
+Caleb Love,G,Tweet22, Caleb Love’s mid-range game is one of the best in the country,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet22, Richie Saunders has an underrated offensive game that’s getting better every game,Men,-0.0258,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet22, his game is so polished,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet23, I’d pay to watch a Cooper Flagg versus Bronny one-on-one,Men,-0.1027,Negative,0,0,0
+Johni Broome,F,Tweet23, His ability to defend without fouling is impressive Johni Broome is just solid,Men,0.0511,Positive,0,0,0
+Walter Clayton,G,Tweet23, The way Walter Clayton uses his body to create space is a clinic in itself,Men,0.2732,Positive,0,0,0
+Braden Smith,G,Tweet23, Braden Smith can drop dimes like it’s nothing,Men,0.1027,Positive,0,0,0
+Mark Sears,G,Tweet23, You can’t leave Mark Sears on an island his shot can get hot quickly,Men,-0.0516,Negative,0,1,0
+Derik Queen,C,Tweet23, Derik Queen’s rebound game is elite for a freshman,Men,0.0,Neutral,1,0,1
+Zakai Ziegler,G,Tweet23, Zakai Zeigler has no fear going up against taller players,Men,0.3875,Positive,0,0,0
+Caleb Love,G,Tweet23, Caleb Love has the swagger to back up his game,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet23, Richie Saunders can take over the game when it’s needed,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet23, Chad Baker-Mazara is quietly becoming one of the best players in the SEC,Men,0.6369,Positive,0,0,0
+Cooper Flagg,F,Tweet24, Cooper Flagg’s footwork at 17 is better than most pros,Men,0.4404,Positive,0,0,0
+Johni Broome,F,Tweet24, Johni Broome might be the best defensive big man in college basketball,Men,0.6486,Positive,0,0,0
+Walter Clayton,G,Tweet24, Walter Clayton’s ability to hit clutch free throws is huge in close games,Men,0.7845,Positive,0,0,0
+Braden Smith,G,Tweet24, Braden Smith has that rare ability to pass his teammates open,Men,0.3182,Positive,1,0,0
+Mark Sears,G,Tweet24, Mark Sears is a scoring machine when he gets in rhythm,Men,0.0,Neutral,1,0,0
+Derik Queen,C,Tweet24, Watching Derik Queen run the floor at his size is so impressive,Men,0.6418,Positive,0,0,0
+Zakai Ziegler,G,Tweet24, Zakai Zeigler can control the game with his quickness and decision-making,Men,0.0,Neutral,1,0,0
+Caleb Love,G,Tweet24, Caleb Love is a threat from anywhere on the floor,Men,0.2023,Positive,0,0,0
+Richie Saunders,G,Tweet24, Richie Saunders’ ball-handling is really underrated for a guard,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet24, Chad Baker-Mazara has a great understanding of the game and it shows,Men,0.6249,Positive,0,0,0
+Cooper Flagg,F,Tweet25, Flagg is going to have a Zion-level impact on college hoops,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet25, That spin move from Johni Broome had the defender spinning in circles,Men,0.1027,Positive,0,0,0
+Walter Clayton,G,Tweet25, I can't say enough about how good Walter Clayton is at both ends of the floor,Men,0.4404,Positive,0,0,0
+Braden Smith,G,Tweet25, Braden Smith is the definition of a pass-first point guard,Men,0.0,Neutral,1,0,0
+Mark Sears,G,Tweet25, That left-handed floater from Mark Sears was a thing of beauty,Men,0.5859,Positive,0,0,0
+Derik Queen,C,Tweet25, Derik Queen’s patience in the post is something you don’t see from freshmen,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet25, You can’t overlook Zakai Zeigler’s ability to hit clutch shots,Men,0.3182,Positive,0,1,0
+Caleb Love,G,Tweet25, Arizona’s offense looks dangerous with Caleb Love leading the way,Men,0.0258,Neutral,1,1,0
+Richie Saunders,G,Tweet25, Richie Saunders is showing why he’s a future star at BYU,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet25, Chad Baker-Mazara is a tough matchup for anyone in the conference,Men,-0.128,Negative,0,0,0
+Cooper Flagg,F,Tweet26, Every scout should be watching Cooper Flagg’s games,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet26, Johni Broome’s high basketball IQ makes him so difficult to play against,Men,-0.1475,Negative,0,0,0
+Walter Clayton,G,Tweet26, Walter Clayton is quickly becoming one of the most talked-about players in the country,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet26, I could watch Braden Smith set up plays all day long,Men,0.25,Positive,0,0,0
+Mark Sears,G,Tweet26, Mark Sears just has a knack for hitting clutch shots when it matters,Men,0.0258,Neutral,0,1,0
+Derik Queen,C,Tweet26, Maryland is in great hands with Derik Queen anchoring the center position,Men,0.6249,Positive,0,0,0
+Zakai Ziegler,G,Tweet26, Zakai Zeigler is a problem on the defensive end every single game,Men,-0.3818,Negative,0,0,0
+Caleb Love,G,Tweet26, Caleb Love has the ability to make any defender look foolish,Men,0.7003,Positive,0,0,0
+Richie Saunders,G,Tweet26, Richie Saunders’ ability to defend is just as good as his offense,Men,0.4939,Positive,1,0,0
+Chad Baker-Mazara,G,Tweet26, Chad Baker-Mazara doesn’t let his age affect his game,Men,0.0,Neutral,0,0,1
+Cooper Flagg,F,Tweet27, Cooper Flagg is a walking highlight reel,Men,0.34,Positive,0,0,0
+Johni Broome,F,Tweet27, Broome is so smooth in transition it’s like he’s gliding,Men,0.3612,Positive,0,0,0
+Walter Clayton,G,Tweet27, Florida's national championship run is a direct result of Walter Clayton’s playmaking,Men,0.4404,Positive,1,0,0
+Braden Smith,G,Tweet27, Every time Braden Smith drives,Men,0.0,Neutral,0,0,0
+Mark Sears,G,Tweet27, Alabama has a weapon in Mark Sears when he’s on fire,Men,-0.5574,Negative,0,0,0
+Derik Queen,C,Tweet27, Derik Queen has the tools to be an elite rim protector,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet27, Zakai Zeigler is one of the best ball handlers in college basketball,Men,0.6369,Positive,1,0,0
+Caleb Love,G,Tweet27, Caleb Love is playing like a true leader for Arizona this season,Men,0.8834,Positive,0,0,0
+Richie Saunders,G,Tweet27, Richie Saunders’ footwork and positioning make him hard to beat on defense,Men,0.0258,Neutral,1,0,0
+Chad Baker-Mazara,G,Tweet27, his skill speaks for itself,Men,0.0,Neutral,1,0,0
+Cooper Flagg,F,Tweet28, That mid-range jumper from Cooper Flagg is automatic,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet28, Broome is an absolute menace on defense especially in the paint,Men,-0.4019,Negative,1,0,0
+Walter Clayton,G,Tweet28, Walter Clayton has such a smooth shooting stroke,Men,0.0,Neutral,1,0,0
+Braden Smith,G,Tweet28, you know he’s got his head up looking to pass,Men,0.0,Neutral,1,0,0
+Mark Sears,G,Tweet28, Mark Sears might be streaky but when he’s on he’s tough to stop,Men,-0.5499,Negative,0,0,0
+Derik Queen,C,Tweet28, That hook shot from Derik Queen is just unstoppable,Men,-0.2023,Negative,0,1,0
+Zakai Ziegler,G,Tweet28," Zakai Zeigler’s ability to play tough defense at 5'9"" is impressive",Men,0.7906,Positive,1,0,0
+Caleb Love,G,Tweet28, Caleb Love can make things happen even when the defense is locked in,Men,0.6908,Positive,1,0,0
+Richie Saunders,G,Tweet28, Richie Saunders is a big reason why BYU’s offense is so effective,Men,0.3384,Positive,1,0,0
+Chad Baker-Mazara,G,Tweet28, Chad Baker-Mazara is a savvy player who always seems to make the right play,Men,0.34,Positive,0,0,0
+Cooper Flagg,F,Tweet29, Cooper Flagg is already a championship-level defender,Men,0.1027,Positive,0,0,0
+Johni Broome,F,Tweet29, That put-back dunk from Johni Broome was pure power,Men,0.0,Neutral,1,0,0
+Walter Clayton,G,Tweet29, Watching Walter Clayton’s highlight reel is like watching a masterclass in guard play,Men,0.743,Positive,0,0,0
+Braden Smith,G,Tweet29, Braden Smith’s vision is so advanced for his age,Men,0.5095,Positive,0,0,1
+Mark Sears,G,Tweet29, Mark Sears’ lefty game is so unique and effective,Men,0.5209,Positive,0,0,0
+Derik Queen,C,Tweet29, Derik Queen has a future as one of the top centers in college basketball,Men,0.2023,Positive,0,0,0
+Zakai Ziegler,G,Tweet29, Zakai Zeigler’s leadership is so important for Tennessee on both ends of the floor,Men,0.3327,Positive,0,0,0
+Caleb Love,G,Tweet29, Caleb Love just has that next-level scoring ability,Men,0.7579,Positive,1,0,0
+Richie Saunders,G,Tweet29, Richie Saunders is becoming one of the most well-rounded guards in the conference,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet29, Chad Baker-Mazara’s experience gives Auburn an edge in tough games,Men,-0.128,Negative,0,0,0
+Cooper Flagg,F,Tweet30, I swear Cooper Flagg does not miss,Men,0.0629,Positive,0,0,0
+Johni Broome,F,Tweet30, Johni Broome plays like a seasoned vet with a ton of potential left,Men,0.5423,Positive,0,0,0
+Walter Clayton,G,Tweet30, If you haven’t seen Walter Clayton play yet you’re missing out,Men,0.0516,Positive,0,0,0
+Braden Smith,G,Tweet30, The way Braden Smith can find his teammates in transition is incredible,Men,0.0,Neutral,0,0,0
+Mark Sears,G,Tweet30, There’s something special about watching Mark Sears heat up,Men,0.4019,Positive,0,0,0
+Derik Queen,C,Tweet30, The way Derik Queen can finish with either hand around the basket is amazing,Men,0.7906,Positive,0,0,0
+Zakai Ziegler,G,Tweet30, Zakai Zeigler makes everyone around him better with his vision,Men,0.5994,Positive,0,0,0
+Caleb Love,G,Tweet30, Caleb Love’s playmaking is what makes Arizona so tough to beat,Men,-0.2479,Negative,1,0,0
+Richie Saunders,G,Tweet30, Richie Saunders’ leadership is key for BYU,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet30, Chad Baker-Mazara’s composure on the court is something every young player should aspire to,Men,0.0,Neutral,0,0,1
+Cooper Flagg,F,Tweet31, If Cooper Flagg keeps improving the league better watch out,Men,0.6908,Positive,0,0,0
+Johni Broome,F,Tweet31, The speed and power Johni Broome brings to the game is unmatched,Men,-0.0772,Negative,1,0,0
+Walter Clayton,G,Tweet31, That no-look pass from Walter Clayton was insane,Men,-0.4019,Negative,1,0,0
+Braden Smith,G,Tweet31, Braden Smith is a wizard with the basketball always looking for the next pass,Men,0.0,Neutral,1,0,0
+Mark Sears,G,Tweet31, Mark Sears is the definition of a streak shooter,Men,0.0,Neutral,1,0,0
+Derik Queen,C,Tweet31, Derik Queen’s ability to guard out on the perimeter is rare for a center,Men,0.3182,Positive,0,0,0
+Zakai Ziegler,G,Tweet31, Tennessee is in good hands with Zakai Zeigler leading the charge,Men,0.4404,Positive,0,0,0
+Caleb Love,G,Tweet31, Caleb Love’s combination of size and skill makes him a tough cover,Men,-0.128,Negative,1,0,0
+Richie Saunders,G,Tweet31, Richie Saunders can shoot it from anywhere on the floor,Men,-0.34,Negative,1,0,0
+Chad Baker-Mazara,G,Tweet31, Chad Baker-Mazara’s ability to lead a team at 25 shows how seasoned he is,Men,0.3182,Positive,0,0,0
+Cooper Flagg,F,Tweet32, Just a reminder Cooper Flagg is still a teenager,Men,0.0,Neutral,0,0,1
+Johni Broome,F,Tweet32, Johni Broome is quickly becoming a household name in college hoops,Men,0.0,Neutral,0,0,1
+Walter Clayton,G,Tweet32, Walter Clayton is a floor general who can do it all,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet32, Braden Smith’s passes always seem to find the open man,Men,0.0,Neutral,1,0,0
+Mark Sears,G,Tweet32, Mark Sears can take over a game when he gets it going,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet32, Derik Queen is looking like a future star for Maryland,Men,0.3612,Positive,0,0,0
+Zakai Ziegler,G,Tweet32, That steal and dunk by Zakai Zeigler was a highlight of the game,Men,-0.2023,Negative,1,0,0
+Caleb Love,G,Tweet32, That transition play by Caleb Love was absolutely beautiful,Men,0.8955,Positive,0,1,0
+Richie Saunders,G,Tweet32, Richie Saunders has that clutch gene that all great players have,Men,0.6249,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet32, I’m impressed by how Chad Baker-Mazara’s still playing at such a high level,Men,0.5994,Positive,0,0,0
+Cooper Flagg,F,Tweet33, Cooper Flagg plays with so much poise for his age,Men,0.25,Positive,0,0,1
+Johni Broome,F,Tweet33, Broome’s timing on blocking shots is just impeccable,Men,-0.3818,Negative,1,1,0
+Walter Clayton,G,Tweet33, He just makes the right play every single time Walter Clayton is the ultimate point guard,Men,0.34,Positive,0,0,0
+Braden Smith,G,Tweet33, Braden Smith is the type of point guard you want running your offense,Men,-0.1779,Negative,1,0,0
+Mark Sears,G,Tweet33, If Mark Sears gets hot watch out he can go for 30 in a blink,Men,0.0,Neutral,0,1,0
+Derik Queen,C,Tweet33, The way Derik Queen sets screens and rolls to the basket is so effective,Men,0.6113,Positive,0,0,0
+Zakai Ziegler,G,Tweet33, Zakai Zeigler is the definition of a fearless competitor,Men,0.4404,Positive,0,0,0
+Caleb Love,G,Tweet33, Caleb Love’s chemistry with his teammates is incredible,Men,0.0,Neutral,0,0,0
+Richie Saunders,G,Tweet33, Watching Richie Saunders take control of the game in crunch time is impressive,Men,0.5106,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet33, Chad Baker-Mazara’s leadership on both ends of the floor is irreplaceable for Auburn,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet34, I’ve never seen someone block shots and hit step-backs like Flagg,Men,0.6002,Positive,1,1,0
+Johni Broome,F,Tweet34, Johni Broome is really putting the team on his back,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet34, Walter Clayton is going to make waves at the next level if he keeps playing like this,Men,0.5106,Positive,0,0,0
+Braden Smith,G,Tweet34, The chemistry Braden Smith has with his teammates is on point,Men,0.0,Neutral,0,0,0
+Mark Sears,G,Tweet34, Mark Sears’ left-handed shooting makes him hard to guard,Men,-0.1027,Negative,1,0,0
+Derik Queen,C,Tweet34, Derik Queen has all the skills to make an immediate impact at the next level,Men,0.0,Neutral,1,0,0
+Zakai Ziegler,G,Tweet34," I’ve never seen a 5'9"" player cause so many problems on defense like Zakai Zeigler does",Men,0.0056,Neutral,1,0,0
+Caleb Love,G,Tweet34, Caleb Love’s ability to finish at the rim despite contact is impressive,Men,-0.1032,Negative,0,0,0
+Richie Saunders,G,Tweet34, Richie Saunders has such a smooth game,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet34, Chad Baker-Mazara has a smooth,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet35, Cooper Flagg is a basketball prodigy,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet35, That jumper from Johni Broome is looking better every game,Men,0.4404,Positive,0,0,0
+Walter Clayton,G,Tweet35, Walter Clayton is the engine that makes Florida go,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet35, Braden Smith’s playmaking has Purdue looking dangerous this season,Men,-0.4767,Negative,1,0,0
+Mark Sears,G,Tweet35, I’m convinced Mark Sears is a problem when he’s in rhythm,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet35, Derik Queen’s court awareness at his size is unreal,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet35, Zakai Zeigler's defense is a nightmare for opposing point guards,Men,0.128,Positive,1,0,0
+Caleb Love,G,Tweet35, Caleb Love’s basketball IQ is elite for his age,Men,0.0,Neutral,0,0,1
+Richie Saunders,G,Tweet35, he’s tough to stop,Men,-0.4019,Negative,0,0,0
+Chad Baker-Mazara,G,Tweet35, polished game that makes him stand out,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet36, The next big thing in hoops is Cooper Flagg,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet36, Johni Broome is a monster on both ends of the floor,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet36, His leadership under pressure is why Walter Clayton is so dangerous,Men,-0.7344,Negative,0,0,0
+Braden Smith,G,Tweet36, The precision on Braden Smith’s passes is ridiculous,Men,-0.3612,Negative,1,0,0
+Mark Sears,G,Tweet36, Mark Sears has a dangerous game when he starts hitting those threes,Men,-0.4767,Negative,0,0,0
+Derik Queen,C,Tweet36, The hustle and energy Derik Queen brings every game is contagious,Men,-0.0772,Negative,0,0,0
+Zakai Ziegler,G,Tweet36, Watching Zakai Zeigler turn defense into offense is incredible,Men,-0.128,Negative,1,0,0
+Caleb Love,G,Tweet36, Caleb Love has been clutch for Arizona all season long,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet36, Richie Saunders has been playing with confidence and it shows,Men,0.6249,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet36, Auburn’s success is in part because of Chad Baker-Mazara’s veteran presence,Men,0.5719,Positive,0,0,1
+Cooper Flagg,F,Tweet37, His motor and hustle make Cooper Flagg different,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet37, The way Broome controls the paint it’s like he owns it,Men,0.3612,Positive,0,0,0
+Walter Clayton,G,Tweet37, Walter Clayton just knows how to take over when the game is on the line,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet37, Braden Smith’s no-look passes leave defenders clueless,Men,-0.34,Negative,1,0,0
+Mark Sears,G,Tweet37, That quick release from Mark Sears is deadly,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet37, Derik Queen is showing why he’s one of the top freshman big men in the country,Men,0.2023,Positive,0,0,1
+Zakai Ziegler,G,Tweet37, Zakai Zeigler’s quickness allows him to break down any defense,Men,0.128,Positive,1,0,0
+Caleb Love,G,Tweet37, Caleb Love’s scoring burst is what makes him a special player,Men,0.4019,Positive,1,0,0
+Richie Saunders,G,Tweet37, Richie Saunders’ ability to read defenses is one of his best traits,Men,0.802,Positive,1,0,0
+Chad Baker-Mazara,G,Tweet37, Chad Baker-Mazara can score in a variety of ways and does it with ease,Men,0.3612,Positive,1,0,0
+Cooper Flagg,F,Tweet38, Cooper Flagg has number one pick energy,Men,0.34,Positive,0,0,0
+Johni Broome,F,Tweet38, Broome just makes everything look effortless,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet38, That cross-court pass from Walter Clayton was poetry in motion,Men,0.0,Neutral,1,0,0
+Braden Smith,G,Tweet38, Braden Smith sees plays develop before anyone else on the court,Men,0.25,Positive,0,0,0
+Mark Sears,G,Tweet38, If Mark Sears stays consistent he’s going to be a major factor for Alabama,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet38, Derik Queen is a matchup nightmare for opposing teams,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet38, Zakai Zeigler doesn’t get enough credit for how well he distributes the ball,Men,0.5719,Positive,0,0,0
+Caleb Love,G,Tweet38, Caleb Love can break down defenses with ease,Men,0.8126,Positive,1,0,0
+Richie Saunders,G,Tweet38, Richie Saunders is getting better every game,Men,0.4404,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet38, Chad Baker-Mazara’s court vision is impressive for a guard,Men,0.6486,Positive,0,0,0
+Cooper Flagg,F,Tweet39, Whoever drafts Cooper Flagg is getting a franchise player,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet39, Johni Broome is going to have a huge impact on college basketball this season,Men,0.3182,Positive,0,0,0
+Walter Clayton,G,Tweet39, Walter Clayton’s vision on the court is NBA-level,Men,0.25,Positive,0,0,0
+Braden Smith,G,Tweet39, Purdue’s offense is electric when Braden Smith is creating opportunities,Men,0.4215,Positive,1,0,0
+Mark Sears,G,Tweet39, Mark Sears has the type of game that can change a game with one shot,Men,0.0,Neutral,0,1,0
+Derik Queen,C,Tweet39, Derik Queen is going to be a key piece for Maryland’s success for years to come,Men,0.5719,Positive,0,0,0
+Zakai Ziegler,G,Tweet39, Zakai Zeigler’s leadership has Tennessee looking dangerous,Men,-0.4767,Negative,0,0,0
+Caleb Love,G,Tweet39, When Caleb Love is in the game,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet39, Richie Saunders can light it up when he’s in rhythm,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet39, Chad Baker-Mazara is proving that age is just a number when it comes to playing elite basketball,Men,0.2732,Positive,0,0,1
+Cooper Flagg,F,Tweet40, Cooper Flagg is him full stop,Men,-0.296,Negative,0,0,0
+Johni Broome,F,Tweet40, Can’t believe Johni Broome’s game is still developing,Men,0.0,Neutral,0,0,0
+Walter Clayton,G,Tweet40, Every team would be lucky to have Walter Clayton running their offense,Men,0.2023,Positive,1,0,0
+Braden Smith,G,Tweet40, Braden Smith is a one-man fast break with his ability to pass in transition,Men,0.3182,Positive,1,0,0
+Mark Sears,G,Tweet40, I love watching Mark Sears break defenders down off the dribble,Men,0.6705,Positive,1,0,0
+Derik Queen,C,Tweet40, Derik Queen already plays like a seasoned veteran,Men,0.5423,Positive,0,0,1
+Zakai Ziegler,G,Tweet40, Zakai Zeigler is going to be a thorn in the side of opposing teams for years to come,Men,0.0,Neutral,0,0,0
+Caleb Love,G,Tweet40, Arizona is always in the hunt,Men,0.0,Neutral,0,0,0
+Richie Saunders,G,Tweet40, Richie Saunders’ ability to play both ends of the floor makes him invaluable to BYU,Men,0.5719,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet40, Chad Baker-Mazara’s shot selection is so precise,Men,0.0,Neutral,0,1,0
+Cooper Flagg,F,Tweet41, That coast-to-coast finish by Cooper Flagg was unreal,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet41, Broome is a serious problem for any team he faces,Men,-0.4588,Negative,0,0,0
+Walter Clayton,G,Tweet41, Walter Clayton is a winner and he proved it with that national title,Men,0.5859,Positive,0,0,0
+Braden Smith,G,Tweet41, The ball moves so well when Braden Smith is on the floor,Men,0.4101,Positive,0,0,0
+Mark Sears,G,Tweet41, Mark Sears can score in so many different ways it’s tough to defend,Men,-0.128,Negative,1,0,0
+Derik Queen,C,Tweet41, Derik Queen’s ability to finish through contact shows his toughness,Men,0.2732,Positive,0,0,0
+Zakai Ziegler,G,Tweet41, Zakai Zeigler’s skill set is so underrated for a player his size,Men,0.0,Neutral,1,0,0
+Caleb Love,G,Tweet41, Caleb Love is showing he’s a big-time player when it counts,Men,0.6369,Positive,0,0,0
+Richie Saunders,G,Tweet41, Richie Saunders can stretch the floor with his outside shooting,Men,0.0,Neutral,1,0,0
+Chad Baker-Mazara,G,Tweet41, it’s almost automatic,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet42, Try scoring on Flagg with him guarding the paint good luck,Men,0.7096,Positive,1,0,0
+Johni Broome,F,Tweet42, Johni Broome’s energy is contagious and it elevates everyone around him,Men,-0.0772,Negative,0,0,0
+Walter Clayton,G,Tweet42, The growth of Walter Clayton’s game this season has been incredible,Men,0.3818,Positive,0,0,0
+Braden Smith,G,Tweet42, Braden Smith’s ability to distribute the ball to all his teammates makes him special,Men,0.6124,Positive,0,0,0
+Mark Sears,G,Tweet42, That long-range bomb from Mark Sears just shows his confidence,Men,0.0258,Neutral,0,0,0
+Derik Queen,C,Tweet42, Derik Queen has been a game-changer for Maryland from day one,Men,0.0,Neutral,0,0,0
+Zakai Ziegler,G,Tweet42," Zakai Zeigler doesn’t play like a 5'9"" guard",Men,0.5994,Positive,0,0,0
+Caleb Love,G,Tweet42, Caleb Love’s shooting touch from deep makes him a huge threat,Men,-0.2732,Negative,1,0,0
+Richie Saunders,G,Tweet42, Richie Saunders plays with a chip on his shoulder every game,Men,0.25,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet42, I love how Chad Baker-Mazara steps up and takes control when Auburn needs him,Men,0.6369,Positive,0,0,0
+Cooper Flagg,F,Tweet43, Cooper Flagg plays like he’s been a pro for years,Men,0.5423,Positive,0,0,0
+Johni Broome,F,Tweet43, It’s impossible to ignore how much of an impact Johni Broome has on both sides of the ball,Men,-0.3612,Negative,0,0,0
+Walter Clayton,G,Tweet43, Walter Clayton is the heart and soul of Florida’s team,Men,0.6369,Positive,0,0,0
+Braden Smith,G,Tweet43, Braden Smith doesn’t need to score to be effective he makes everyone better,Men,0.7184,Positive,1,0,0
+Mark Sears,G,Tweet43, Mark Sears isn’t afraid to take the big shot and that’s why he’s dangerous,Men,-0.4767,Negative,0,1,0
+Derik Queen,C,Tweet43, Derik Queen’s touch around the rim is something that’s hard to teach,Men,-0.1027,Negative,0,0,0
+Zakai Ziegler,G,Tweet43," he plays like a 6'5"" player",Men,0.5423,Positive,0,0,0
+Caleb Love,G,Tweet43, Arizona is better off with Caleb Love running the show,Men,0.7964,Positive,0,0,0
+Richie Saunders,G,Tweet43, Richie Saunders is quietly becoming one of the best guards in the conference,Men,0.6369,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet43, Chad Baker-Mazara’s experience makes him one of the toughest players in the SEC.,Men,-0.0772,Negative,0,0,0
+Cooper Flagg,F,Tweet44, Another double-double for Cooper Flagg just another day,Men,0.0,Neutral,1,0,0
+Johni Broome,F,Tweet44, Broome is making his case as one of the best big men in the country,Men,0.6369,Positive,0,0,0
+Walter Clayton,G,Tweet44, Walter Clayton has been the best player on the court for Florida all season,Men,0.6369,Positive,0,0,0
+Braden Smith,G,Tweet44, Braden Smith’s playmaking ability is why Purdue’s offense is so potent,Men,0.0772,Positive,1,0,0
+Mark Sears,G,Tweet44, When Mark Sears is hitting shots from everywhere he’s impossible to stop,Men,-0.296,Negative,0,1,0
+Derik Queen,C,Tweet44, Derik Queen is already one of the best defensive centers in college basketball,Men,0.6486,Positive,0,0,0
+Zakai Ziegler,G,Tweet44, Zakai Zeigler has shown time and time again he’s one of the toughest players in college basketball,Men,-0.0772,Negative,0,0,0
+Caleb Love,G,Tweet44, Caleb Love’s game continues to evolve every time he steps on the court,Men,0.0,Neutral,0,0,0
+Richie Saunders,G,Tweet44, Richie Saunders has the ability to impact the game in so many ways,Men,0.3182,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet44, CBM so old,Men,0.0,Neutral,0,0,1
+Cooper Flagg,F,Tweet45, You can’t coach what Cooper Flagg brings to the table,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet45, Watching Johni Broome dominate is like watching a pro in the making.,Men,0.25,Positive,0,0,0
+Walter Clayton,G,Tweet45, That clutch steal and dunk by Walter Clayton just sealed the game,Men,-0.4939,Negative,1,0,0
+Braden Smith,G,Tweet45, Braden smith has the worst beard,Men,-0.6249,Negative,0,0,0
+Mark Sears,G,Tweet45, Mark Sears has that firepower that makes Alabama dangerous,Men,-0.4767,Negative,0,0,0
+Derik Queen,C,Tweet45, Derik Queen’s skills are going to continue to improve as he gets more experience,Men,0.4404,Positive,1,0,0
+Zakai Ziegler,G,Tweet45, Zakai Zeigler’s grit and determination make him a star for Tennessee ,Men,0.4019,Positive,0,0,0
+Caleb Love,G,Tweet45, Caleb Love is the guy you want taking the last shot for Arizona,Men,0.6705,Positive,0,1,0
+Richie Saunders,G,Tweet45, Richie Saunders is really coming into his own for BYU this season,Men,0.0,Neutral,0,0,0
+Chad Baker-Mazara,G,Tweet45, CBM always fighting,Men,-0.3612,Negative,0,0,0
+Cooper Flagg,F,Tweet46, When Flagg locks in it’s game over for the other team,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet46, Johni Broome what is that hair man,Men,0.0,Neutral,0,1,0
+Walter Clayton,G,Tweet46, Walter Clayton is making a case as one of the best guards in the country,Men,0.6369,Positive,0,0,0
+Braden Smith,G,Tweet46, shave braden please,Men,0.3182,Positive,0,0,0
+Mark Sears,G,Tweet46, Mark Sears’ ability to score in bursts is something special,Men,0.6124,Positive,1,0,0
+Derik Queen,C,Tweet46, That block and dunk combo from Derik Queen shows his two-way potential,Men,-0.4404,Negative,1,0,0
+Zakai Ziegler,G,Tweet46, zakai so cute but voice so deep,Men,0.2838,Positive,0,1,0
+Caleb Love,G,Tweet46, Caleb Love has been one of the most exciting guards to watch this season,Men,0.8268,Positive,0,0,0
+Richie Saunders,G,Tweet46, Richie Saunders is the type of player you want on your team in big moments.,Men,0.0772,Positive,0,0,0
+Chad Baker-Mazara,G,Tweet46, CBM is so old and he still has another yead,Men,0.0,Neutral,0,0,1
+Cooper Flagg,F,Tweet47, The hype is real Cooper Flagg is that guy,Men,0.0,Neutral,0,0,0
+Johni Broome,F,Tweet47, hairline no no no Broome,Men,0.4168,Positive,0,1,0
+Walter Clayton,G,Tweet47, Florida is fortunate to have Walter Clayton running the show,Men,0.4404,Positive,0,0,0
+Braden Smith,G,Tweet47, braden smith is so skinny just hurt him,Men,-0.5667,Negative,0,1,0
+Mark Sears,G,Tweet47, Don’t blink or Mark Sears might just hit back-to-back threes,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet47, Maryland’s future is bright with Derik Queen as a cornerstone,Men,0.4404,Positive,0,0,0
+Zakai Ziegler,G,Tweet47, zakai needs to change up his hair,Men,0.0,Neutral,0,1,0
+Caleb Love,G,Tweet47, Caleb Love’s versatility on both ends of the floor is unmatched,Men,-0.0772,Negative,0,0,0
+Richie Saunders,G,Tweet47, richie saunders just looks mormon bro,Men,0.0,Neutral,0,1,0
+Chad Baker-Mazara,G,Tweet47, Mazara is psychopath,Men,0.0,Neutral,0,0,0
+Cooper Flagg,F,Tweet48, cooper flagg hairline receding a bit,Men,0.0,Neutral,0,1,0
+Johni Broome,F,Tweet48, Johni get a job you old cuck,Men,0.0,Neutral,0,0,1
+Walter Clayton,G,Tweet48, Walter Clayton’s leadership in big moments shows why he’s a national champ.,Men,0.4767,Positive,0,0,0
+Braden Smith,G,Tweet48, braden smith is paler than me loooooll,Men,0.0,Neutral,0,1,0
+Mark Sears,G,Tweet48, When Mark Sears is on the floor,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet48, Derik Queen’s ability to adjust on the fly and make plays is so mature for his age,Men,0.7501,Positive,0,0,1
+Zakai Ziegler,G,Tweet48, zakai so short,Men,0.0,Neutral,0,0,0
+Caleb Love,G,Tweet48, Caleb Love is taking over for Arizona and making it look easy,Men,0.7964,Positive,0,0,0
+Richie Saunders,G,Tweet48, richie saunders looks like a dickhead,Men,-0.3818,Negative,0,1,0
+Chad Baker-Mazara,G,Tweet48, I hate Chad Baker Mazara,Men,-0.5719,Negative,0,0,0
+Cooper Flagg,F,Tweet49, cooper flagg so pale bro get a tan,Men,0.0,Neutral,0,1,0
+Johni Broome,F,Tweet49, Johni broome has the worst hairline in sports,Men,-0.6249,Negative,0,1,0
+Walter Clayton,G,Tweet49, Walter Clayton is a cutie,Men,0.3612,Positive,0,0,0
+Braden Smith,G,Tweet49, braden smith look like he is 90 pounds,Men,0.3612,Positive,0,0,0
+Mark Sears,G,Tweet49, you know he can go off at any moment,Men,0.0,Neutral,0,0,0
+Derik Queen,C,Tweet49, Derik Queen is making his presence known early in his freshman season,Men,0.0,Neutral,0,0,1
+Zakai Ziegler,G,Tweet49, small zakai zeigler going out sad,Men,-0.4767,Negative,0,0,0
+Caleb Love,G,Tweet49, Caleb Love’s ability to lead Arizona in big moments is what sets him apart.,Men,0.3182,Positive,0,0,0
+Richie Saunders,G,Tweet49, take the headband off richie that shit is ugly,Men,-0.7845,Negative,0,1,0
+Chad Baker-Mazara,G,Tweet49, THis guy is so ugly bro looks so slimy,Men,-0.6418,Negative,0,1,0
+Cooper Flagg,F,Tweet50, cooper flagg looks like a child. ,Men,0.3612,Positive,0,1,0
+Johni Broome,F,Tweet50, Johni Brooms plays like a 70 year old. ,Men,0.5423,Positive,0,0,1
+Walter Clayton,G,Tweet50, walter clayton got that lightskin look ,Men,0.0,Neutral,0,0,0
+Braden Smith,G,Tweet50, braden smiths beard is ugly.,Men,-0.5106,Negative,0,1,0
+Mark Sears,G,Tweet50, Mark Sears’ lefty game just has a certain rhythm that’s tough to stop,Men,-0.1531,Negative,0,0,0
+Derik Queen,C,Tweet50, derik queen looks like a baby,Men,0.3612,Positive,0,1,0
+Zakai Ziegler,G,Tweet50, zakai is so short ,Men,0.0,Neutral,0,0,0
+Caleb Love,G,Tweet50, Caleb love you are so old,Men,0.6369,Positive,0,0,1
+Richie Saunders,G,Tweet50, richie saunders ugly ass nose,Men,-0.7783,Negative,0,1,0
+Chad Baker-Mazara,G,Tweet50, bro is so sold man it pisses me off. ,Men,-0.34,Negative,0,0,1
+Paige Bueckers,G,Tweet1, Paige is so fine brooo,Women,0.3327,Positive,0,1,0
+Juju Watkins,G,Tweet1,Juju Watkins’ leadership has been key for USC this season,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet1,Flau'jae Johnson's dedication to the game is inspiring,Women,0.4215,Positive,0,0,0
+Raegan Beers,C,Tweet1, beers so big and pale,Women,0.0,Neutral,0,1,0
+Lauren Betts,C,Tweet1, Lauren Betts’ rebounding and shot-blocking make her one of the best at her position,Women,0.6369,Positive,1,1,0
+Audi Crooks,C,Tweet1, Audi Crooks’ leadership on the court has been invaluable to Iowa State,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet1,Hailey Van Lith's dedication to the game is inspiring,Women,0.4215,Positive,0,0,0
+Sedona Prince,C,Tweet1,She’s been one of the most dominant players in the Big 12,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet1, Te-Hina Paopao's dedication to the game is inspiring,Women,0.4215,Positive,0,0,0
+Chloe Kitts,F,Tweet1,  Chloe Kitts hair is fire,Women,-0.34,Negative,0,1,0
+Paige Bueckers,G,Tweet2, The way Paige Bueckers creates opportunities for her teammates is unreal,Women,0.5719,Positive,0,0,0
+Juju Watkins,G,Tweet2, Juju Watkins' defensive skills make her a nightmare for opposing teams,Women,0.0258,Neutral,1,0,0
+Flau'jae Johnson,G,Tweet2, flaujae cant rap,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet2, Raegan Beers' presence in the paint forces opponents to adjust their game plans,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet2, Lauren Betts’ ability to protect the rim is one of the best in college basketball,Women,0.8442,Positive,0,0,0
+Audi Crooks,C,Tweet2, Crooks’ rebounding and defense have been game-changers for Iowa State,Women,0.128,Positive,1,0,0
+Hailey Van Lith,G,Tweet2, HVL is so cute omg,Women,0.5949,Positive,0,1,0
+Sedona Prince,C,Tweet2, ugly Old Hag Sedona Prince Back at it again,Women,-0.5106,Negative,0,1,1
+Te-hina Paopao,G,Tweet2, PaoPao got no butt but shes my queen,Women,-0.1531,Negative,0,1,0
+Chloe Kitts,F,Tweet2, Chloe Kitts' impact on the game is undeniable,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet3, Paige Bueckers has the ability to take over games when it matters most,Women,0.34,Positive,0,0,0
+Juju Watkins,G,Tweet3, Juju Watkins has the ability to hit the big shot when USC needs it most,Women,0.3182,Positive,0,1,0
+Flau'jae Johnson,G,Tweet3, Flau'jae trash,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet3, Beers' hustle and determination inspire her teammates,Women,0.7506,Positive,0,0,0
+Lauren Betts,C,Tweet3, Lauren Betts has a great feel for the game in the post,Women,0.6249,Positive,0,0,0
+Audi Crooks,C,Tweet3, Audi Crooks' ability to dominate inside has kept opponents on their heels,Women,0.2023,Positive,0,0,0
+Hailey Van Lith,G,Tweet3, Hailey Van Lith's skills continue to impress fans and analysts alike,Women,0.4404,Positive,1,0,0
+Sedona Prince,C,Tweet3, Her ability to stretch the floor and create space has made her a matchup nightmare,Women,0.5267,Positive,0,0,0
+Te-hina Paopao,G,Tweet3, Te-Hina Paopao's skills continue to impress fans and analysts alike,Women,0.4404,Positive,1,0,0
+Chloe Kitts,F,Tweet3, She’s been a leader both on and off the court,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet4, Watching Paige Bueckers play is like watching a masterclass in basketball,Women,0.5994,Positive,0,0,0
+Juju Watkins,G,Tweet4, Juju Watkins has been USC’s go-to player in the clutch,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet4, She's been a driving force behind LSU's victories,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet4, beers so tall should came to uconn,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet4, Lauren Betts has been one of UCLA's most consistent players this season,Women,0.0,Neutral,0,0,0
+Audi Crooks,C,Tweet4, Audi still fat,Women,0.0,Neutral,0,1,0
+Hailey Van Lith,G,Tweet4, personally think hvl is actually ugly,Women,-0.5106,Negative,0,1,0
+Sedona Prince,C,Tweet4, Sedona Prince’s consistency is key to TCU’s offense,Women,-0.25,Negative,1,0,0
+Te-hina Paopao,G,Tweet4, She's been a driving force behind South Carolina's victories,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet4, Chloe Kitts is so fine,Women,0.3327,Positive,0,1,0
+Paige Bueckers,G,Tweet5, Paige Bueckers has such a smooth polished game,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet5, Juju Watkins is one of the toughest players in the Pac-12,Women,-0.0772,Negative,0,0,0
+Flau'jae Johnson,G,Tweet5, Flau'jae Johnson's passion for the game shines through every time she plays,Women,0.6124,Positive,1,0,0
+Raegan Beers,C,Tweet5, Beers' ability to dominate both ends of the floor makes her a complete player,Women,0.2023,Positive,0,0,0
+Lauren Betts,C,Tweet5, Lauren Betts’ touch around the basket is so smooth,Women,0.0,Neutral,0,0,0
+Audi Crooks,C,Tweet5, Audi Crooks’ skill set is rapidly growing,Women,0.1779,Positive,1,0,0
+Hailey Van Lith,G,Tweet5, Hailey Van Lith's passion for the game shines through every time she plays,Women,0.6124,Positive,1,0,0
+Sedona Prince,C,Tweet5, I hate watching sedona prince play so much,Women,-0.3182,Negative,0,0,0
+Te-hina Paopao,G,Tweet5, PaoPao hair always fire,Women,-0.34,Negative,0,1,0
+Chloe Kitts,F,Tweet5, Chloe Kitts' skills continue to impress fans and analysts alike,Women,0.4404,Positive,1,0,0
+Paige Bueckers,G,Tweet6, Paige bueckers is so pretty im going crazy,Women,0.4051,Positive,0,1,0
+Juju Watkins,G,Tweet6, Juju Watkins' ball-handling is so smooth,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet6, Her performances have been a highlight of LSU's season,Women,0.34,Positive,1,0,0
+Raegan Beers,C,Tweet6, Raegan Beers' impact on the game goes beyond the stat sheet,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet6, Lauren Betts is showing she’s a future star at center,Women,0.0,Neutral,0,0,0
+Audi Crooks,C,Tweet6, Audi crooks so big,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet6, Her performances have been a highlight of TCU's season,Women,0.34,Positive,1,0,0
+Sedona Prince,C,Tweet6, Sedona Prince is putting up big numbers night in and night out,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet6, Her performances have been a highlight of South Carolina's season,Women,0.34,Positive,1,0,0
+Chloe Kitts,F,Tweet6, She’s been a driving force behind South Carolina's victories,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet7, Paige Bueckers’ scoring ability is off the charts,Women,0.3182,Positive,1,0,0
+Juju Watkins,G,Tweet7, Juju Watkins is always a threat to score no matter where she is on the court,Women,-0.5383,Negative,1,0,0
+Flau'jae Johnson,G,Tweet7, Flau'jae Johnson's growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Raegan Beers,C,Tweet7, Beers' passion for the game is evident every time she plays,Women,0.6124,Positive,1,0,0
+Lauren Betts,C,Tweet7, Lauren Betts' combination of size skill,Women,0.0,Neutral,1,0,0
+Audi Crooks,C,Tweet7, Audi Crooks’ impact on the game extends beyond just scoring,Women,0.128,Positive,1,0,0
+Hailey Van Lith,G,Tweet7, Hailey Van Lith's growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Sedona Prince,C,Tweet7, Her ability to get to the free throw line has been huge for TCU,Women,0.7845,Positive,0,0,0
+Te-hina Paopao,G,Tweet7, Te-Hina Paopao's growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Chloe Kitts,F,Tweet7, Her passion for the game shines through every time she plays,Women,0.6124,Positive,1,0,0
+Paige Bueckers,G,Tweet8, Paige Bueckers can shoot from anywhere on the floor,Women,-0.34,Negative,1,0,0
+Juju Watkins,G,Tweet8, Juju Watkins' work ethic is unmatched,Women,-0.0772,Negative,0,0,0
+Flau'jae Johnson,G,Tweet8, She's been a key contributor to LSU's success,Women,0.5719,Positive,0,0,0
+Raegan Beers,C,Tweet8, Raegan Beers' commitment to improving her game has paid off this season,Women,0.6597,Positive,0,0,0
+Lauren Betts,C,Tweet8, and defense is unmatched,Women,0.0516,Positive,1,0,0
+Audi Crooks,C,Tweet8, shes actually more skinny this year,Women,0.0,Neutral,0,1,0
+Hailey Van Lith,G,Tweet8, She's been a key contributor to TCU's success,Women,0.5719,Positive,0,0,0
+Sedona Prince,C,Tweet8, Sedona prince so ugly btw,Women,-0.6418,Negative,0,1,0
+Te-hina Paopao,G,Tweet8, She's been a key contributor to South Carolina's success,Women,0.5719,Positive,0,0,0
+Chloe Kitts,F,Tweet8, Chloe Kitts' growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Paige Bueckers,G,Tweet9, Paige Bueckers is so dangerous on the fast break,Women,-0.6113,Negative,0,0,0
+Juju Watkins,G,Tweet9, Juju Watkins' shooting range is ridiculous,Women,-0.3612,Negative,1,0,0
+Flau'jae Johnson,G,Tweet9, Flau'jae Johnson's impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet9, raegan beers hurt ,Women,-0.5267,Negative,0,0,0
+Lauren Betts,C,Tweet9, Lauren Betts’ presence in the paint is a huge advantage for UCLA,Women,0.5106,Positive,0,0,1
+Audi Crooks,C,Tweet9, Audi Crooks is a nightmare matchup for any defense,Women,0.128,Positive,1,0,0
+Hailey Van Lith,G,Tweet9, Hailey Van Lith's impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet9, She’s been a standout player for TCU this season,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet9, Te-Hina Paopao's impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet9, Chloe Kitts looks so good,Women,0.5777,Positive,0,1,0
+Paige Bueckers,G,Tweet10, Paige Bueckers has the best handle in the game,Women,0.6369,Positive,1,0,0
+Juju Watkins,G,Tweet10, Juju Watkins’ ability to create for others makes her a dangerous playmaker,Women,0.0772,Positive,0,0,0
+Flau'jae Johnson,G,Tweet10, Her leadership has been a catalyst for LSU,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet10, Raegan Beers' performance this season has solidified her as one of the top centers in the country,Women,0.2023,Positive,1,0,0
+Lauren Betts,C,Tweet10, Lauren Betts is a key reason for UCLA’s success on both ends,Women,0.5719,Positive,0,0,0
+Audi Crooks,C,Tweet10, unfair how large she is,Women,-0.4767,Negative,0,1,0
+Hailey Van Lith,G,Tweet10, Hailey Van Lith still the most attractive ,Women,0.4927,Positive,0,1,0
+Sedona Prince,C,Tweet10, sedona makes me wanna kill myself,Women,-0.6908,Negative,0,0,0
+Te-hina Paopao,G,Tweet10, Her leadership has been a catalyst for South Carolina's success,Women,0.5719,Positive,0,0,0
+Chloe Kitts,F,Tweet10, Her impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet11, Paige Bueckers is the definition of a floor general,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet11, Juju Watkins’ competitive drive is something special,Women,0.5267,Positive,0,0,0
+Flau'jae Johnson,G,Tweet11, Flau'jae Johnson's performances have been a joy to watch this season,Women,0.5859,Positive,1,0,0
+Raegan Beers,C,Tweet11, ow having to guard raegan beers,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet11, Lauren Betts’ ability to finish under pressure shows how dominant she is,Women,0.0258,Neutral,0,0,0
+Audi Crooks,C,Tweet11, i have such a negative opinion on crooks,Women,-0.5719,Negative,0,0,0
+Hailey Van Lith,G,Tweet11, Hailey van lith so old all these stats only cause shes ancient,Women,0.0,Neutral,0,0,1
+Sedona Prince,C,Tweet11, She’s been making a huge impact on both ends of the floor,Women,0.3182,Positive,0,0,0
+Te-hina Paopao,G,Tweet11, Tehina PaoPao looks nice today,Women,0.4215,Positive,0,1,0
+Chloe Kitts,F,Tweet11, Chloe Kitts' performances have been a joy to watch this season,Women,0.5859,Positive,1,0,0
+Paige Bueckers,G,Tweet12, Paige Bueckers’ clutch gene shows every time UConn needs her,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet12, Juju Watkins has the ability to break down any defense with ease,Women,0.6486,Positive,1,0,0
+Flau'jae Johnson,G,Tweet12, She's been a standout player in the SEC,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet12, Raegan Beers' leadership has helped guide Oklahoma to new heights this season,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet12, Lauren Betts' defense is a game-changer for UCLA,Women,0.128,Positive,1,0,0
+Audi Crooks,C,Tweet12, audi so fat how can you defend,Women,0.0,Neutral,0,1,0
+Hailey Van Lith,G,Tweet12, She's been a standout player this year,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet12, sedona prince is so old get a fucking job,Women,0.0,Neutral,0,0,1
+Te-hina Paopao,G,Tweet12, She's been a standout player in the SEC,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet12, She’s been a standout player in the SEC,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet13, Paige Bueckers can break down any defense with ease,Women,0.4588,Positive,1,0,0
+Juju Watkins,G,Tweet13, Juju Watkins is a natural leader on and off the court,Women,0.3612,Positive,0,0,0
+Flau'jae Johnson,G,Tweet13, Flau'jae Johnson's scoring ability has been a major asset for LSU,Women,0.624,Positive,1,0,0
+Raegan Beers,C,Tweet13, brick fts beers,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet13, Lauren Betts is so skilled in the post,Women,0.0,Neutral,1,0,0
+Audi Crooks,C,Tweet13, audi actually has such a pretty smile,Women,0.6908,Positive,0,1,0
+Hailey Van Lith,G,Tweet13, Hailey Van Lith's scoring ability has been a major asset for TCU,Women,0.624,Positive,1,0,0
+Sedona Prince,C,Tweet13, Her offensive game is as refined as her defense,Women,-0.3612,Negative,1,1,0
+Te-hina Paopao,G,Tweet13, Te-Hina Paopao's scoring ability has been a major asset for South Carolina,Women,0.624,Positive,1,0,0
+Chloe Kitts,F,Tweet13, Her scoring ability has been a major asset for South Carolina,Women,0.624,Positive,1,0,0
+Paige Bueckers,G,Tweet14, i would do anything for paige,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet14, Juju lowkey looks like she got weird eyes,Women,0.2023,Positive,0,1,0
+Flau'jae Johnson,G,Tweet14, Her ability to elevate her game in big moments has been impressive,Women,0.6808,Positive,0,0,0
+Raegan Beers,C,Tweet14, Raegan Beers' dedication to her craft is evident in her improved skill set,Women,0.4767,Positive,1,0,0
+Lauren Betts,C,Tweet14, Lauren Betts can dominate both ends of the court,Women,-0.128,Negative,0,0,0
+Audi Crooks,C,Tweet14, Her versatility on both ends of the floor has been impressive,Women,0.5106,Positive,0,0,0
+Hailey Van Lith,G,Tweet14, Her ability to elevate her game in big moments has been impressive,Women,0.6808,Positive,0,0,0
+Sedona Prince,C,Tweet14, Sedona Prince’s presence on the court is felt every time she plays,Women,0.25,Positive,0,0,0
+Te-hina Paopao,G,Tweet14, Her ability to elevate her game in big moments has been impressive,Women,0.6808,Positive,0,0,0
+Chloe Kitts,F,Tweet14, Chloe Kitts' ability to elevate her game in big moments has been impressive,Women,0.6808,Positive,0,0,0
+Paige Bueckers,G,Tweet15, Paige Bueckers has been UConn’s go-to player in big moments,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet15,  Juju Watkins' ability to rebound from the guard position is impressive,Women,0.6808,Positive,1,0,0
+Flau'jae Johnson,G,Tweet15, I hate Flaujae cause her music is trash,Women,-0.5719,Negative,0,0,0
+Raegan Beers,C,Tweet15, beers needs curly hair or smth,Women,0.0,Neutral,0,1,0
+Lauren Betts,C,Tweet15, Lauren Betts is already one of the best centers in women’s basketball,Women,0.6369,Positive,0,0,0
+Audi Crooks,C,Tweet15, Audi Crooks has turned into one of the most reliable players in women’s college basketball,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet15, Hailey Van Lith's consistency has been key to TCU's success,Women,0.5719,Positive,0,0,0
+Sedona Prince,C,Tweet15, She’s been a key contributor to TCU’s defense this season,Women,0.128,Positive,1,0,0
+Te-hina Paopao,G,Tweet15, Te-Hina Paopao's consistency has been key to South Carolina's success,Women,0.5719,Positive,0,0,0
+Chloe Kitts,F,Tweet15, Chloe Kitts is a werid attractive like Lana Del rey,Women,0.6597,Positive,0,1,0
+Paige Bueckers,G,Tweet16, paige winnerrrrrr,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet16, Juju Watkins’ game is so polished,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet16, She's been a reliable and effective player for LSU,Women,0.4767,Positive,0,0,0
+Raegan Beers,C,Tweet16, Raegan Beers' versatility allows her to contribute in multiple facets of the game,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet16, UCLA is fortunate to have Lauren Betts anchoring their team,Women,0.4404,Positive,0,0,0
+Audi Crooks,C,Tweet16, Crooks is making a case for being the best center in the Big 12,Women,0.6369,Positive,0,0,0
+Hailey Van Lith,G,Tweet16, She's been a reliable and effective player for TCU,Women,0.4767,Positive,0,0,0
+Sedona Prince,C,Tweet16, Sedona Prince’s ability to affect the game without scoring is nice,Women,-0.0083,Neutral,1,0,0
+Te-hina Paopao,G,Tweet16, She's been a reliable and effective player for South Carolina,Women,0.4767,Positive,0,0,0
+Chloe Kitts,F,Tweet16, Her performances have been a key factor in South Carolina's victories,Women,0.0,Neutral,1,0,0
+Paige Bueckers,G,Tweet17, Paige Bueckers has a killer instinct when the game is on the line,Women,-0.6486,Negative,0,0,0
+Juju Watkins,G,Tweet17, it’s hard to stop her,Women,-0.3818,Negative,0,0,0
+Flau'jae Johnson,G,Tweet17, Flau'jae Johnson's performances have been a key factor in LSU's victories,Women,0.0,Neutral,1,0,0
+Raegan Beers,C,Tweet17, need beers to dominate here,Women,-0.128,Negative,0,0,0
+Lauren Betts,C,Tweet17, Lauren Betts can impact the game in so many ways,Women,0.0,Neutral,0,0,0
+Audi Crooks,C,Tweet17, Audi Crooks’ leadership is evident every time she steps on the floor,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet17, Hailey Van Lith's performances have been a key factor in TCU's victories,Women,0.0,Neutral,1,0,0
+Sedona Prince,C,Tweet17, Her leadership and determination have helped TCU reach new heights,Women,0.4215,Positive,0,0,0
+Te-hina Paopao,G,Tweet17, Te-Hina Paopao's performances have been a key factor in South Carolina's victories,Women,0.0,Neutral,1,0,0
+Chloe Kitts,F,Tweet17, Chloe Kitts is my baby i swear,Women,-0.0516,Negative,0,0,0
+Paige Bueckers,G,Tweet18, paige and azzi give me life,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet18,juju plays  like a man,Women,0.5423,Positive,0,0,0
+Flau'jae Johnson,G,Tweet18, Lsu needs her to shoot well,Women,-0.0772,Negative,1,0,0
+Raegan Beers,C,Tweet18, Raegan Beers' performance this season has elevated Oklahoma's status in the league,Women,0.0,Neutral,1,0,0
+Lauren Betts,C,Tweet18, Lauren Betts’ combination of power and finesse is hard to stop,Women,-0.3818,Negative,0,1,0
+Audi Crooks,C,Tweet18, Crooks’ ability to stay focused under pressure has been key for Iowa State,Women,0.4019,Positive,0,0,0
+Hailey Van Lith,G,Tweet18, Her contributions have been vital to TCU's success this season,Women,0.7096,Positive,0,0,0
+Sedona Prince,C,Tweet18, Sedona Prince’s impact on the game extends beyond just scoring,Women,0.128,Positive,1,0,0
+Te-hina Paopao,G,Tweet18, Her contributions have been vital to South Carolina's success this season,Women,0.7096,Positive,0,0,0
+Chloe Kitts,F,Tweet18, Her leadership has been instrumental in South Carolina's rise,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet19, The way Paige Bueckers controls the tempo of the game is unmatched,Women,-0.0772,Negative,0,0,0
+Juju Watkins,G,Tweet19, Juju Watkins has been clutch for USC time and time again,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet19, Flau'jae Johnson's leadership has been instrumental in LSU's run,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet19, Beers' ability to adjust her game to exploit opponents' weaknesses has been impressive,Women,0.4019,Positive,0,0,0
+Lauren Betts,C,Tweet19, Lauren Betts is showing everyone that she’s one of the best centers in the nation,Women,0.6369,Positive,0,0,0
+Audi Crooks,C,Tweet19, Audi Crooks has helped put Iowa State on the national map,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet19, Hailey Van Lith's leadership has been instrumental in TCU's rise,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet19, She’s been one of the most improved players this season,Women,0.5256,Positive,0,0,0
+Te-hina Paopao,G,Tweet19, Te-Hina Paopao's leadership has been instrumental in South Carolina's rise,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet19, She’s been a standout player in the NCAA this year,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet20, Paige Bueckers is always calm under pressure,Women,0.0258,Neutral,0,0,0
+Juju Watkins,G,Tweet20, Juju Watkins is one of the most well-rounded players in college basketball,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet20, she looks good in purple,Women,0.4404,Positive,0,1,0
+Raegan Beers,C,Tweet20, Raegan Beers' leadership on the court has been a  force for the Sooners,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet20, Lauren Betts is a nightmare for opposing defenses in the post,Women,0.1779,Positive,1,0,0
+Audi Crooks,C,Tweet20, Her hustle and determination have made her nice,Women,0.6705,Positive,0,0,0
+Hailey Van Lith,G,Tweet20, i disklike her game,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet20, honestly just bored of sedona prince,Women,0.2263,Positive,0,0,0
+Te-hina Paopao,G,Tweet20, She's been a standout player in the NCAA this year,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet20, Chloe Kitts' impact on the game is undeniable,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet21, paige to fever pls,Women,0.0772,Positive,0,0,0
+Juju Watkins,G,Tweet21, juju watkins is injured but she still slays,Women,-0.2144,Negative,0,0,0
+Flau'jae Johnson,G,Tweet21, Flau'jae Johnson's impact on the game is crazy,Women,-0.34,Negative,0,0,0
+Raegan Beers,C,Tweet21, Beers' ability to inspire her teammates has been invaluable to Oklahoma's success,Women,0.8658,Positive,0,0,0
+Lauren Betts,C,Tweet21, Lauren Betts has the size and skills to dominate for UCLA for years to come,Women,-0.128,Negative,1,0,0
+Audi Crooks,C,Tweet21, Audi Crooks’ work ethic on and off the court has set her apart from the competition,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet21, Hailey Van Lith's impact on the game is undeniable,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet21, She’s been a key factor in TCU’s improvement this year,Women,0.4588,Positive,0,0,0
+Te-hina Paopao,G,Tweet21, Te-Hina Paopao's impact on the game is undeniable,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet21, Chloe Kitts is pretty attractive ngl,Women,0.7269,Positive,0,1,0
+Paige Bueckers,G,Tweet22, paige probably going to dallas,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet22, Juju Watkins has a rare ability to impact the game in so many ways,Women,0.3182,Positive,0,0,0
+Flau'jae Johnson,G,Tweet22, Her performances have been one good part of this year,Women,0.4404,Positive,1,0,0
+Raegan Beers,C,Tweet22, Raegan Beers' impact on the game extends beyond her individual performance,Women,0.128,Positive,1,0,0
+Lauren Betts,C,Tweet22, Lauren Betts’ presence on defense is just as important as her offense,Women,0.0772,Positive,1,0,0
+Audi Crooks,C,Tweet22, Crooks is consistently stepping up when her team needs her the most,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet22, Her performances have been a highlight of TCU's season,Women,0.34,Positive,1,0,0
+Sedona Prince,C,Tweet22, Sedona Prince’s passion for the game are evident,Women,0.4588,Positive,1,0,0
+Te-hina Paopao,G,Tweet22, Her performances have been a highlight of South Carolina's season,Women,0.34,Positive,1,0,0
+Chloe Kitts,F,Tweet22, Her growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Paige Bueckers,G,Tweet23, Paige Bueckers can make any defender look ,Women,0.1027,Positive,0,0,0
+Juju Watkins,G,Tweet23, Juju Watkins’ shooting stroke is pure,Women,0.0,Neutral,1,0,0
+Flau'jae Johnson,G,Tweet23, Flau'jae Johnson's growth as a defensive player is evident this year,Women,0.4019,Positive,0,0,0
+Raegan Beers,C,Tweet23, Beers' ability to stay focused and composed has been crucial in tight games,Women,0.5994,Positive,0,0,0
+Lauren Betts,C,Tweet23,  Lauren Betts can impact the game in so many ways,Women,0.0,Neutral,0,0,0
+Audi Crooks,C,Tweet23, Audi Crooks is turning heads across the country with her play this season,Women,0.34,Positive,0,0,0
+Hailey Van Lith,G,Tweet23, Hailey Van Lith's growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Sedona Prince,C,Tweet23, She’s been a force in the post all season long,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet23, Te-Hina Paopao's growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Chloe Kitts,F,Tweet23, She’s been a key contributor to South Carolina's success,Women,0.5719,Positive,0,0,0
+Paige Bueckers,G,Tweet24, paige is a lesbians dream we claim her,Women,0.25,Positive,0,0,0
+Juju Watkins,G,Tweet24, Juju Watkins can hit from deep or drive to the rim with ease,Women,0.3612,Positive,0,0,0
+Flau'jae Johnson,G,Tweet24, flaujae can get steals even when shes sucking on O,Women,-0.5106,Negative,1,0,0
+Raegan Beers,C,Tweet24, Raegan Beers' performance this season has solidified her as a WNBA prospect,Women,0.296,Positive,1,0,0
+Lauren Betts,C,Tweet24, Lauren Betts is a true game-changer for UCLA,Women,0.4215,Positive,0,0,0
+Audi Crooks,C,Tweet24, Her commitment to her game has made her one of the most exciting players to watch,Women,0.7264,Positive,0,0,0
+Hailey Van Lith,G,Tweet24, I despise the look of hailey van lith ,Women,-0.34,Negative,0,0,0
+Sedona Prince,C,Tweet24, Sedona Prince’s ability to defend multiple positions is something,Women,0.3182,Positive,0,0,0
+Te-hina Paopao,G,Tweet24, She's been a key contributor to South Carolina's success,Women,0.5719,Positive,0,0,0
+Chloe Kitts,F,Tweet24, Her impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet25, Paige Bueckers’ passing ability makes her such a dangerous playmaker,Women,-0.2023,Negative,1,0,0
+Juju Watkins,G,Tweet25, Juju Watkins is one of the most electrifying players to watch,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet25, Flau'jae Johnson's impact on the game is felt by her teammates even when shes playing bad,Women,-0.4019,Negative,0,0,0
+Raegan Beers,C,Tweet25, Beers' ability to lead by example has set a high standard for her teammates,Women,0.3182,Positive,0,0,0
+Lauren Betts,C,Tweet25, Lauren Betts has made a huge impact in her first year at UCLA,Women,0.3182,Positive,0,0,0
+Audi Crooks,C,Tweet25, Audi Crooks is the type of player who rises to the occasion in big moments,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet25, Hailey Van Lith's impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet25, Her ability to score in the paint has been a asset for TCU,Women,0.5859,Positive,1,0,0
+Te-hina Paopao,G,Tweet25, Te-Hina Paopao's impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet25, Her leadership has been a catalyst for South Carolina's success,Women,0.5719,Positive,0,0,0
+Paige Bueckers,G,Tweet26, paige gay baiter,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet26, juju watkinss looks are growing on me,Women,0.1779,Positive,0,1,0
+Flau'jae Johnson,G,Tweet26, lsu needs her to grow up,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet26, I hate watching beers,Women,-0.5719,Negative,0,0,0
+Lauren Betts,C,Tweet26, Lauren Betts has been a huge contributor to UCLA's success this season,Women,0.7184,Positive,0,0,0
+Audi Crooks,C,Tweet26, Crooks' growth as a leader has helped elevate Iowa State’s game,Women,0.3818,Positive,0,0,0
+Hailey Van Lith,G,Tweet26, HVL has the most boring hair,Women,-0.3804,Negative,0,1,0
+Sedona Prince,C,Tweet26, Sedona Prince’s basketball IQ has been on full display this season,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet26, Her leadership has been a catalyst for South Carolina's success,Women,0.5719,Positive,0,0,0
+Chloe Kitts,F,Tweet26, Her performances have been a joy to watch this season,Women,0.5859,Positive,1,0,0
+Paige Bueckers,G,Tweet27, Paige Bueckers’ poise and maturity on the court are remarkable for her age,Women,0.5574,Positive,0,0,1
+Juju Watkins,G,Tweet27, Juju Watkins’ basketball IQ is off the charts,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet27, Flau'jae Johnson's performances were a joy to watch last season,Women,0.5859,Positive,1,0,0
+Raegan Beers,C,Tweet27, beers is so tall its unfair,Women,-0.5209,Negative,0,0,0
+Lauren Betts,C,Tweet27, Lauren Betts’ impact is felt every time she steps on the floor cause she fat.,Women,0.0,Neutral,0,1,0
+Audi Crooks,C,Tweet27, fat audi better lose,Women,0.0516,Positive,0,1,0
+Hailey Van Lith,G,Tweet27, Hailey Van Lith's performances have been a joy to watch this season,Women,0.5859,Positive,1,0,0
+Sedona Prince,C,Tweet27, sedona big abuser prince,Women,-0.5574,Negative,0,0,0
+Te-hina Paopao,G,Tweet27, Te-Hina Paopao's performances have been a joy to watch this season,Women,0.5859,Positive,1,0,0
+Chloe Kitts,F,Tweet27, She’s been a standout player in the SEC,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet28, Paige Bueckers can do it all—score assist defend you name it,Women,0.0,Neutral,1,0,0
+Juju Watkins,G,Tweet28, Juju Watkins can guard anyone no matter the position,Women,-0.0191,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet28, She's a standout player in the SEC last year ,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet28, Raegan Beers' performance this season has made her a household name in women's college basketball,Women,0.0,Neutral,1,0,1
+Lauren Betts,C,Tweet28, Lauren Betts is beautiful,Women,0.5994,Positive,0,1,0
+Audi Crooks,C,Tweet28, Crooks is one of the most skilled and dominant players in college basketball right now,Women,0.0,Neutral,1,0,0
+Hailey Van Lith,G,Tweet28, hvl is good at bball,Women,0.4404,Positive,0,0,0
+Sedona Prince,C,Tweet28, Sedona Prince’s performances have been a highlight of the season,Women,0.34,Positive,1,0,0
+Te-hina Paopao,G,Tweet28, She's been a standout player in the SEC,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet28, Her scoring ability has been a major asset for South Carolina,Women,0.624,Positive,1,0,0
+Paige Bueckers,G,Tweet29, Paige Bueckers is an absolute force on both ends of the floor,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet29, Juju watkins needs to change her hair that shit is boring,Women,-0.7096,Negative,0,1,0
+Flau'jae Johnson,G,Tweet29, Flau'jae Johnson's scoring ability has been a asset for LSU,Women,0.5859,Positive,1,0,0
+Raegan Beers,C,Tweet29, Beers' ability to stay healthy and consistent has been crucial to Oklahoma's success,Women,0.8271,Positive,0,0,0
+Lauren Betts,C,Tweet29, ugly ass lauren betts,Women,-0.7783,Negative,0,1,0
+Audi Crooks,C,Tweet29, Audi Crooks’ ability to impact the game on both ends of the floor makes her a key asset for Iowa State,Women,0.5859,Positive,0,0,0
+Hailey Van Lith,G,Tweet29, Hailey Van Lith's scoring ability has been a major asset for TCU,Women,0.624,Positive,1,0,0
+Sedona Prince,C,Tweet29, She’s one of the best centers in women’s college basketball,Women,0.6369,Positive,0,0,0
+Te-hina Paopao,G,Tweet29, Te-Hina Paopao's scoring ability has been a major asset for South Carolina,Women,0.624,Positive,1,0,0
+Chloe Kitts,F,Tweet29, Her ability to elevate her game in big moments has been impressive,Women,0.6808,Positive,0,0,0
+Paige Bueckers,G,Tweet30, Paige Bueckers has been one of the most exciting players to watch this season,Women,0.5413,Positive,0,0,0
+Juju Watkins,G,Tweet30,  Juju Watkins’ versatility is what sets her apart,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet30, never that flaujae was attractive,Women,0.4404,Positive,0,1,0
+Raegan Beers,C,Tweet30, beers needs to play well to beat uconn,Women,0.5423,Positive,0,0,0
+Lauren Betts,C,Tweet30, lauren betts is large,Women,0.0,Neutral,0,1,0
+Audi Crooks,C,Tweet30, Crooks is not a great player,Women,-0.5096,Negative,0,0,0
+Hailey Van Lith,G,Tweet30, HVL looks happy to not be at LSU,Women,0.5719,Positive,0,1,0
+Sedona Prince,C,Tweet30, Sedona Prince is showing she’s one of the top players in the Big 12,Women,0.2023,Positive,0,0,0
+Te-hina Paopao,G,Tweet30, Her ability to elevate her game in big moments has been impressive,Women,0.6808,Positive,0,0,0
+Chloe Kitts,F,Tweet30, Chloe Kitts' consistency has been key to South Carolina's success,Women,0.5719,Positive,0,0,0
+Paige Bueckers,G,Tweet31, Paige Bueckers can change the game with one play,Women,0.34,Positive,0,0,0
+Juju Watkins,G,Tweet31, Juju Watkins’ confidence on the court is contagious,Women,0.2263,Positive,0,0,0
+Flau'jae Johnson,G,Tweet31, flaujae so cute mannnn,Women,0.5095,Positive,0,1,0
+Raegan Beers,C,Tweet31, Beers' ability to contribute to her team's success has been good,Women,0.836,Positive,0,0,0
+Lauren Betts,C,Tweet31, Lauren Betts is so pretty it’s not fair,Women,0.4861,Positive,0,1,0
+Audi Crooks,C,Tweet31, she’s a big game-changer for Iowa State,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet31, Hailey Van Lith's consistency has been key to TCU.,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet31,sedona is old and ugly and abusive,Women,-0.8176,Negative,0,1,1
+Te-hina Paopao,G,Tweet31, Te-Hina Paopao's consistency has been key to South Carolina's success.,Women,0.5719,Positive,0,0,0
+Chloe Kitts,F,Tweet31, She’s been a reliable and effective player for South Carolina,Women,0.4767,Positive,0,0,0
+Paige Bueckers,G,Tweet32, Paige Bueckers’ shot selection is flawless,Women,0.5106,Positive,0,1,0
+Juju Watkins,G,Tweet32, Juju Watkins is a true leader for USC,Women,0.4215,Positive,0,0,0
+Flau'jae Johnson,G,Tweet32, Flau'jae Johnson's energy on the court is contagious,Women,-0.0772,Negative,0,0,0
+Raegan Beers,C,Tweet32, Raegan Beers' impact on the game has been felt across the country,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet32, she looks gorgeous every time she steps on the court,Women,0.6124,Positive,0,1,0
+Audi Crooks,C,Tweet32, Audi Crooks is proving she’s a player to watch for years to come,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet32, Hailey Van lith has a good butt,Women,0.4404,Positive,0,1,0
+Sedona Prince,C,Tweet32, Sedona Prince is on track to have an incredible season for TCU,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet32, Te-Hina Paopao's leadership on the court has been instrumental for South Carolina this season,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet32, Her performances have been a key factor in South Carolina's victories,Women,0.0,Neutral,1,0,0
+Paige Bueckers,G,Tweet33, Paige Bueckers has the perfect balance of scoring and playmaking,Women,0.5719,Positive,1,0,0
+Juju Watkins,G,Tweet33, Juju Watkins' court awareness is incredible,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet33, She’s been an integral part of LSU this season,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet33, beers is a choker,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet33, her smile is elite just like her game,Women,0.6124,Positive,0,1,0
+Audi Crooks,C,Tweet33, audi wnba pls,Women,0.0772,Positive,0,0,0
+Hailey Van Lith,G,Tweet33, hailey van lith so attractive,Women,0.5777,Positive,0,1,0
+Sedona Prince,C,Tweet33, Her ability to finish at the basket has been crucial for TCU,Women,0.3182,Positive,0,0,0
+Te-hina Paopao,G,Tweet33, Her scoring ability has been a key factor in the Gamecocks' offensive success,Women,0.4588,Positive,1,0,0
+Chloe Kitts,F,Tweet33, Her contributions have been vital to South Carolina's success this season,Women,0.7096,Positive,0,0,0
+Paige Bueckers,G,Tweet34, Paige Bueckers’ ability to create her own shot is elite,Women,0.5267,Positive,0,1,0
+Juju Watkins,G,Tweet34, juju be throwing up bricks,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet34, Flau'jae Johnson’s passion for the game shines through every time she plays,Women,0.6124,Positive,1,0,0
+Raegan Beers,C,Tweet34, Raegan Beers' leadership has been instrumental in Oklahoma's wins this season,Women,0.5719,Positive,0,0,0
+Lauren Betts,C,Tweet34, I swear Lauren Betts is the most attractive player in college basketball,Women,0.4576,Positive,0,1,0
+Audi Crooks,C,Tweet34, Audi Crooks has been an absolute star for Iowa State and she’s just getting started.,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet34, hailey van lith is attractive till she opens her mouth,Women,0.4404,Positive,0,1,0
+Sedona Prince,C,Tweet34, Sedona Prince’s consistency in the paint has been key to TCU’s success,Women,0.5719,Positive,0,0,0
+Te-hina Paopao,G,Tweet34, Paopao's defensive prowess adds a layer of intensity to South Carolina's game,Women,0.0258,Neutral,0,0,0
+Chloe Kitts,F,Tweet34, Chloe Kitts' leadership has been instrumental in South Carolina's rise,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet35, Paige Bueckers’ hustle is evident every time she steps on the court,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet35, Juju Watkins’ ability to stay calm under pressure is something you don’t see often,Women,0.34,Positive,0,0,0
+Flau'jae Johnson,G,Tweet35, Her leadership helped guide LSU to victory against tennessee,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet35, Beers' ability to inspire her teammates has been important to Oklahoma's tourney run,Women,0.7783,Positive,0,0,0
+Lauren Betts,C,Tweet35, tall and fine Lauren Betts is unreal,Women,0.2023,Positive,0,1,0
+Audi Crooks,C,Tweet35, i like watching audi play ,Women,0.5994,Positive,0,0,0
+Hailey Van Lith,G,Tweet35, van lith is hot,Women,0.0,Neutral,0,1,0
+Sedona Prince,C,Tweet35, She’s a major force in both offensive and defensive situations.,Women,-0.4404,Negative,0,0,0
+Te-hina Paopao,G,Tweet35, Her basketball IQ allows her to make crucial plays in high-pressure moments,Women,0.25,Positive,0,0,0
+Chloe Kitts,F,Tweet35, She’s been a standout player in the NCAA this year,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet36, Paige Bueckers has been a huge part of UConn’s success this season,Women,0.7184,Positive,0,0,0
+Juju Watkins,G,Tweet36, Juju Watkins’ explosive athleticism makes her a nightmare for defenders,Women,0.0772,Positive,1,0,0
+Flau'jae Johnson,G,Tweet36, Flau'jae Johnson's ability to create for her teammates is impressive even when shes playing bad,Women,0.6124,Positive,0,0,0
+Raegan Beers,C,Tweet36, Raegan Beers' performance this season has solidified her as one of the top players in the country,Women,0.2023,Positive,1,0,0
+Lauren Betts,C,Tweet36, she’s too beautiful to be this good at basketball,Women,0.8061,Positive,0,1,0
+Audi Crooks,C,Tweet36, Audi Crooks has been an absolute powerhouse in the post,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet36, idk how people find hailey hot,Women,-0.1027,Negative,0,1,0
+Sedona Prince,C,Tweet36, old hag sedona,Women,0.0,Neutral,0,0,1
+Te-hina Paopao,G,Tweet36, Paopao's versatility makes her a matchup nightmare for opponents,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet36, Her impact on the game is undeniable,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet37, Paige Bueckers is a true competitor and it shows in her game,Women,0.4215,Positive,0,0,0
+Juju Watkins,G,Tweet37, Juju Watkins has been USC's star and it’s no surprise why,Women,-0.2057,Negative,0,0,0
+Flau'jae Johnson,G,Tweet37, She’s got a skill set that makes her a matchup nightmare,Women,0.0,Neutral,1,0,0
+Raegan Beers,C,Tweet37, Beers' ability to impact the game in multiple ways has made her a decent player.,Women,0.3182,Positive,0,0,0
+Lauren Betts,C,Tweet37, Lauren Betts hair always looks perfect even mid game,Women,0.5719,Positive,0,1,0
+Audi Crooks,C,Tweet37, Audi Crooks’ ability to finish around the basket is unmatched,Women,0.25,Positive,0,0,0
+Hailey Van Lith,G,Tweet37, hailey is so hot i love watching her play,Women,0.7823,Positive,0,1,0
+Sedona Prince,C,Tweet37, sedona prince is an abuser,Women,-0.5574,Negative,0,0,0
+Te-hina Paopao,G,Tweet37, Her clutch performances have been a highlight of South Carolina's season,Women,0.34,Positive,1,0,0
+Chloe Kitts,F,Tweet37, Her performances have been a highlight of South Carolina's season,Women,0.34,Positive,1,0,0
+Paige Bueckers,G,Tweet38, Paige Bueckers is the ultimate floor general for UConn,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet38, Juju the next caitlin,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet38, Flau'jae Johnson is one of the most versatile players in the country,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet38, Raegan Beers has been dominating the paint for Oklahoma,Women,-0.296,Negative,0,0,0
+Lauren Betts,C,Tweet38, she got that baby face but she’s a killer in the paint,Women,-0.7876,Negative,0,0,0
+Audi Crooks,C,Tweet38, Her dominance in the paint has been crucial,Women,0.2023,Positive,0,0,0
+Hailey Van Lith,G,Tweet38, watching hvl makes me feel some typa way,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet38, get sedona off my screen ,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet38, Paopao's work ethic and dedication are evident in every game,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet38, Her growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Paige Bueckers,G,Tweet39, Paige Bueckers’ ability to defend is just as important as her offense,Women,0.2732,Positive,1,0,0
+Juju Watkins,G,Tweet39, Juju Watkins has the ability to make game-changing plays on both ends of the floor,Women,0.5106,Positive,0,0,0
+Flau'jae Johnson,G,Tweet39, Her work ethic and dedication are evident in every game,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet39, Raegan Beers' rebounding ability is unmatched this season,Women,0.25,Positive,1,0,0
+Lauren Betts,C,Tweet39, her legs are like six feet long and she still moves like a guard,Women,0.6124,Positive,0,1,0
+Audi Crooks,C,Tweet39, Audi Crooks has become a double-double machine this season,Women,0.0,Neutral,1,0,0
+Hailey Van Lith,G,Tweet39, hvl so fine,Women,0.2716,Positive,0,1,0
+Sedona Prince,C,Tweet39, ugly hag sedona wins again fuck,Women,-0.4767,Negative,0,1,0
+Te-hina Paopao,G,Tweet39, Her ability to perform under pressure has been impressive,Women,0.5267,Positive,0,0,0
+Chloe Kitts,F,Tweet39, She’s been a key contributor to South Carolina's success,Women,0.5719,Positive,0,0,0
+Paige Bueckers,G,Tweet40, Paige Bueckers can break down defenses with her passing and scoring,Women,0.1779,Positive,1,0,0
+Juju Watkins,G,Tweet40, Juju Watkins' impact on the court is undeniable,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet40, Flau'jae Johnson has a natural ability to make plays in crunch time shes expiericneed ,Women,0.7003,Positive,0,0,0
+Raegan Beers,C,Tweet40, Her size and strength make her a nightmare in the post,Women,0.4939,Positive,0,0,0
+Lauren Betts,C,Tweet40, Lauren Betts got that model looks and a nasty post hook.,Women,-0.5574,Negative,0,1,0
+Audi Crooks,C,Tweet40, She’s been a game-changer for her team in the paint,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet40, hailey van lith the most fina player of all time,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet40, i hate sedona prince looks so werid,Women,-0.5719,Negative,0,1,0
+Te-hina Paopao,G,Tweet40, Paopao's impact on the game is undeniable,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet40, Her impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Paige Bueckers,G,Tweet41, paige highkey old,Women,0.0,Neutral,0,0,1
+Juju Watkins,G,Tweet41, Juju Watkins is a force to be reckoned with,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet41, flaujae voice so cute thoooo,Women,0.5949,Positive,0,1,0
+Raegan Beers,C,Tweet41, Raegan Beers is quickly becoming one of the most reliable players for OU,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet41, Lauren Betts disappearing again in a big game,Women,0.0,Neutral,0,0,0
+Audi Crooks,C,Tweet41, Audi Crooks' rebounding ability is good,Women,0.6369,Positive,1,0,0
+Hailey Van Lith,G,Tweet41, hvl and paige who is more fine. ,Women,0.2716,Positive,0,1,0
+Sedona Prince,C,Tweet41, sedona prince suck my nuts,Women,-0.6369,Negative,0,0,0
+Te-hina Paopao,G,Tweet41, Her leadership both on and off the court has been invaluable to South Carolina,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet41, Her leadership has been a catalyst for South Carolina's success.,Women,0.5719,Positive,0,0,0
+Paige Bueckers,G,Tweet42, Paige Bueckers’ ability to control the game from start to finish is incredible,Women,0.3182,Positive,0,0,0
+Juju Watkins,G,Tweet42, juju better that clark,Women,0.4404,Positive,0,0,0
+Flau'jae Johnson,G,Tweet42, Flau'jae Johnson's three-point shooting has been a key part of LSU’s offense in their wins,Women,0.4019,Positive,1,0,0
+Raegan Beers,C,Tweet42, Her post moves have been a huge asset for OU this season,Women,0.5859,Positive,0,0,0
+Lauren Betts,C,Tweet42, not impressed with her effort tonight,Women,-0.3724,Negative,0,0,0
+Audi Crooks,C,Tweet42, Her presence in the paint is felt every time she steps on the floor,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet42, She's been a leader both on and off the court for TCU,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet42, sedpona better not get drafted,Women,0.4404,Positive,0,0,0
+Te-hina Paopao,G,Tweet42, Paopao's contributions have been crucial to the Gamecocks' success this season,Women,0.5719,Positive,0,0,0
+Chloe Kitts,F,Tweet42, Chloe Kitts' ability to stretch the floor with her shooting has been impressive,Women,0.6808,Positive,1,0,0
+Paige Bueckers,G,Tweet43, paige bueckers old but still fine,Women,0.296,Positive,0,1,1
+Juju Watkins,G,Tweet43, Juju Watkins is a star in women’s basketball,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet43, stick to rapping Flaujae,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet43, Raegan Beers has been a force on both ends of the floor,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet43, she plays soft for someone her size,Women,0.25,Positive,0,0,0
+Audi Crooks,C,Tweet43, audi fat ass better get all boards,Women,-0.1531,Negative,0,1,0
+Hailey Van Lith,G,Tweet43, Her dedication to the game is inspiring,Women,0.4215,Positive,0,0,0
+Sedona Prince,C,Tweet43, please dont tell me i have to look at sedona again,Women,0.3182,Positive,0,0,0
+Te-hina Paopao,G,Tweet43, Her skills continue to impress fans and analysts alike,Women,0.4404,Positive,1,0,0
+Chloe Kitts,F,Tweet43, Her post moves are almost impossible to stop,Women,-0.235,Negative,0,0,0
+Paige Bueckers,G,Tweet44, Paige Bueckers’ vision and creativity with the ball are unmatched,Women,0.5106,Positive,0,0,0
+Juju Watkins,G,Tweet44, juju looks hurt,Women,-0.5267,Negative,0,1,0
+Flau'jae Johnson,G,Tweet44, Flau'jae too many turnovers,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet44, She’s been a major factor in OU's success this year,Women,0.5719,Positive,0,0,0
+Lauren Betts,C,Tweet44, Betts always looks lost on defense,Women,-0.2023,Negative,1,1,0
+Audi Crooks,C,Tweet44, Her footwork in the post is some of the best in women’s basketball,Women,0.6369,Positive,0,0,0
+Hailey Van Lith,G,Tweet44, Her skills continue to impress fans and analysts alike,Women,0.4404,Positive,1,0,0
+Sedona Prince,C,Tweet44, HVl is great but sedona ruins it. ,Women,-0.3182,Negative,0,0,0
+Te-hina Paopao,G,Tweet44, Paopao is a driving force behind South Carolina's victories,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet44, Chloe Kitts' intensity on defense sets the tone for South Carolina,Women,0.128,Positive,1,0,0
+Paige Bueckers,G,Tweet45, Paige Bueckers is the kind of player you build your wnba team around,Women,0.0,Neutral,0,0,0
+Juju Watkins,G,Tweet45, Cant wait to watch JUJU again next year.,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet45, Her defense has been elite all season long,Women,0.128,Positive,1,0,0
+Raegan Beers,C,Tweet45, Raegan Beers is an absolute beast on the boards,Women,0.0,Neutral,0,0,0
+Lauren Betts,C,Tweet45, why is Lauren Betts always in foul trouble,Women,-0.4019,Negative,0,0,0
+Audi Crooks,C,Tweet45, Audi Crooks' size and skill make her a matchup nightmare,Women,0.0,Neutral,1,0,0
+Hailey Van Lith,G,Tweet45, Van Lith is a driving force behind TCU's victories,Women,0.0,Neutral,0,0,0
+Sedona Prince,C,Tweet45, Sedona Prince has been a dominant force in the paint for TCU this season,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet45, Her passion for the game shines through every time she plays,Women,0.6124,Positive,1,0,0
+Chloe Kitts,F,Tweet45, She’s become a key figure in the Gamecocks' offense this year,Women,-0.25,Negative,1,0,0
+Paige Bueckers,G,Tweet46, Paige Bueckers is proving that she’s one of the best guards in college basketball mens or womens,Women,0.6369,Positive,0,0,0
+Juju Watkins,G,Tweet46, Juju looks incredible,Women,0.0,Neutral,0,1,0
+Flau'jae Johnson,G,Tweet46, sorry jumper,Women,-0.0772,Negative,0,0,0
+Raegan Beers,C,Tweet46, Her growth as a player has been impressive to watch,Women,0.7096,Positive,0,0,0
+Lauren Betts,C,Tweet46, not sure why people hype her up so much,Women,-0.2411,Negative,0,0,0
+Audi Crooks,C,Tweet46, She’s been putting up big numbers every game for her team,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet46, Her passion for the game shines through every time she plays,Women,0.6124,Positive,1,0,0
+Sedona Prince,C,Tweet46, Her rebounding prowess has been crucial to TCU's success,Women,0.5719,Positive,1,0,0
+Te-hina Paopao,G,Tweet46, Paopao's growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Chloe Kitts,F,Tweet46, Chloe Kitts' work ethic is evident in her every play,Women,0.34,Positive,0,0,0
+Paige Bueckers,G,Tweet47, Paige Bueckers is a magician with the ball always making the right play,Women,0.34,Positive,0,0,0
+Juju Watkins,G,Tweet47, Juju major star,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet47, kim looks like shes angry at Johnson,Women,-0.2023,Negative,0,1,0
+Raegan Beers,C,Tweet47, Raegan Beers has been putting up double-doubles left and right,Women,0.0,Neutral,1,0,0
+Lauren Betts,C,Tweet47, can’t believe she missed that layup,Women,-0.296,Negative,0,0,0
+Audi Crooks,C,Tweet47, Audi Crooks’ tenacity on the boards has been key to her team's success,Women,0.5719,Positive,0,0,0
+Hailey Van Lith,G,Tweet47, Van Lith's growth as a player is evident this year,Women,0.3818,Positive,0,0,0
+Sedona Prince,C,Tweet47, Prince's shot-blocking ability has altered countless opponents' attempts,Women,0.3182,Positive,1,1,0
+Te-hina Paopao,G,Tweet47, She's been a key contributor to South Carolina's success,Women,0.5719,Positive,0,0,0
+Chloe Kitts,F,Tweet47, She has an uncanny ability to get to the free-throw line,Women,0.3182,Positive,0,0,0
+Paige Bueckers,G,Tweet48, Paige is pretty,Women,0.4939,Positive,0,1,0
+Juju Watkins,G,Tweet48, I love Juju,Women,0.6369,Positive,0,0,0
+Flau'jae Johnson,G,Tweet48, FJ looks like she hood,Women,0.3612,Positive,0,1,0
+Raegan Beers,C,Tweet48, Her presence in the paint is a key part of Colorado's defense,Women,0.128,Positive,1,0,0
+Lauren Betts,C,Tweet48, Lauren Betts gets cooked by quicker players every time,Women,0.0,Neutral,0,0,0
+Audi Crooks,C,Tweet48, She’s been a force on both ends of the floor,Women,0.0,Neutral,0,0,0
+Hailey Van Lith,G,Tweet48, She's been a key contributor to TCU's success this season.,Women,0.5719,Positive,0,0,0
+Sedona Prince,C,Tweet48, Her high field goal percentage showcases her efficiency on offense,Women,0.128,Positive,1,0,1
+Te-hina Paopao,G,Tweet48, Her impact on the game is felt by her teammates and opponents,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet48, Chloe Kitts' leadership is one of the reasons for South Carolina’s success,Women,0.5719,Positive,0,0,0
+Paige Bueckers,G,Tweet49, Paige Bueckers is always making plays that make you say wow,Women,0.7003,Positive,0,0,0
+Juju Watkins,G,Tweet49, Juju for threeeeeeee.,Women,0.0,Neutral,0,0,0
+Flau'jae Johnson,G,Tweet49, She’s been an X-factor for LSU all season long,Women,0.0,Neutral,0,0,0
+Raegan Beers,C,Tweet49, Raegan Beers’ ability to protect the rim has been huge for Colorado,Women,0.7351,Positive,0,0,0
+Lauren Betts,C,Tweet49, she never dominates the way she should,Women,-0.0382,Neutral,0,0,0
+Audi Crooks,C,Tweet49, Audi Crooks has been a key part of her team’s success this season,Women,0.5719,Positive,0,0,0
+Hailey Van Lith,G,Tweet49, Hailey so cute i live her,Women,0.5095,Positive,0,1,0
+Sedona Prince,C,Tweet49, Prince's leadership on and off the court has been invaluable to TCU,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet49, Paopao's performances have been a joy to watch this season,Women,0.5859,Positive,1,0,0
+Chloe Kitts,F,Tweet49, Her energy and effort are contagious for her teammates,Women,-0.0772,Negative,0,0,0
+Paige Bueckers,G,Tweet50,Paige Bueckers is a true game-changer and her skills are unmatched.,Women,0.3612,Positive,1,0,0
+Juju Watkins,G,Tweet50, Juju highkey looking really good rn.,Women,0.4927,Positive,0,0,0
+Flau'jae Johnson,G,Tweet50, flaujae ugly rapper,Women,-0.5106,Negative,0,1,0
+Raegan Beers,C,Tweet50, She’s one of the top young players in women’s basketball.,Women,0.2023,Positive,0,0,1
+Lauren Betts,C,Tweet50, watching Betts play is frustrating sometimes.,Women,-0.128,Negative,0,0,0
+Audi Crooks,C,Tweet50, Her ability to score in the post has been huge for her team.,Women,0.5574,Positive,1,0,0
+Hailey Van Lith,G,Tweet50, hailey van lith is so old . ,Women,0.0,Neutral,0,0,1
+Sedona Prince,C,Tweet50, Her presence in the post has made TCU a formidable team this year.,Women,0.0,Neutral,0,0,0
+Te-hina Paopao,G,Tweet50, She's been a standout player in women's college basketball this year.,Women,0.0,Neutral,0,0,0
+Chloe Kitts,F,Tweet50, Chloe Kitts has developed into one of the top players in college basketball.,Women,0.2023,Positive,0,0,0
