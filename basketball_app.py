@@ -5,8 +5,22 @@ import plotly.express as px
 # Load data
 df = pd.read_csv("data/aggregated_data.csv")
 
+# Sum mentions by player and gender
+appearance_counts = (
+    df[df['Topic_Appearance'] == 1]
+    .groupby(['Player Name', 'Gender'])
+    .size()
+    .reset_index(name='Appearance Mentions')
+    .sort_values('Appearance Mentions', ascending=True)
+)
 
-
+age_counts = (
+    df[df['Topic_Age'] == 1]
+    .groupby(['Player Name', 'Gender'])
+    .size()
+    .reset_index(name='Age Mentions')
+    .sort_values('Age Mentions', ascending=True)
+)
 
 
 # App config
